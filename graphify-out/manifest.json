@@ -1,0 +1,62 @@
+{
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\data\\changes.json": {
+    "mtime": 1780304028.2906127,
+    "ast_hash": "1ee0a4beba2318162a6b20cc4696badf",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\data\\defenses.json": {
+    "mtime": 1780304028.22524,
+    "ast_hash": "ca53115d10f4b0ba589427b14114b36c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\run.py": {
+    "mtime": 1780303921.8002942,
+    "ast_hash": "503cd9e69974a5f6bb4f46b93f8f935d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\scrapers\\update_defenses.py": {
+    "mtime": 1780303767.5584507,
+    "ast_hash": "244450d0a4832f3b55f433f6a75f0a31",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\utils\\compare.py": {
+    "mtime": 1780299290.9951432,
+    "ast_hash": "2f042d76a324800c9a26a33682fd8c1e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\utils\\file_handler.py": {
+    "mtime": 1779972971.4516914,
+    "ast_hash": "5f1cb832967a2b3d0b029603f21e9a08",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\requirement.txt": {
+    "mtime": 1780054128.8458295,
+    "ast_hash": "6155a583d31a79d3ebc4f15f3abd0cbd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\.gemini\\settings.json": {
+    "mtime": 1780298861.982355,
+    "ast_hash": "ddc6069a85a1acc06096e06bcd8087ac",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\GEMINI.md": {
+    "mtime": 1780298861.982355,
+    "ast_hash": "8a6643a420fdad6bfb583523bc6cef16",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\json_to_csv.py": {
+    "mtime": 1780303174.8605921,
+    "ast_hash": "a3cd32342264642d5081473af5924964",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\coc-data-extraction-apk\\extractor.py": {
+    "mtime": 1780305954.4601996,
+    "ast_hash": "6f7e35a4e4b4fddd1635732b2f9da933",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\coc-data-extraction-apk\\output\\defenses.json": {
+    "mtime": 1780305960.0112188,
+    "ast_hash": "9c43d733b81036dc970a7ed603991a92",
+    "semantic_hash": ""
+  }
+}

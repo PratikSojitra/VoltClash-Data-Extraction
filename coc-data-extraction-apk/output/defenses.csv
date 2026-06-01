@@ -1,0 +1,900 @@
+Category,Building,Level,Hitpoints,DPS,Cost,Time,Required Town Hall
+Army,Army Camp,1,100,,200,1m,1
+Army,Barracks,1,100,,100,10s,1
+Army,Barracks,2,200,,500,15s,2
+Army,Barracks,3,250,,2500,2m,2
+Army,Barracks,4,300,,5000,30m,2
+Army,Barracks,5,360,,20000,2h,3
+Army,Barracks,6,420,,120000,4h,4
+Army,Barracks,7,500,,270000,6h,5
+Army,Barracks,8,575,,600000,12h,6
+Army,Barracks,9,650,,1000000,1d,7
+Army,Barracks,10,730,,1400000,1d 12h,8
+Army,Barracks,11,810,,2600000,2d,9
+Army,Barracks,12,900,,3700000,4d,10
+Army,Barracks,13,980,,6000000,5d,11
+Army,Barracks,14,1050,,7000000,6d,12
+Army,Barracks,15,1150,,9000000,7d,13
+Army,Barracks,16,1250,,11000000,7d 12h,14
+Army,Barracks,17,1350,,12600000,8d,15
+Army,Barracks,18,1450,,15000000,9d,16
+Army,Barracks,19,1520,,26000000,10d 12h,17
+Army,Blacksmith,1,700,,600000,12h,8
+Army,Blacksmith,2,800,,1200000,1d,9
+Army,Blacksmith,3,900,,2300000,2d,10
+Army,Blacksmith,4,1000,,3000000,3d,11
+Army,Blacksmith,5,1100,,5000000,4d,12
+Army,Blacksmith,6,1200,,6200000,4d 12h,13
+Army,Blacksmith,7,1300,,9200000,5d,14
+Army,Blacksmith,8,1400,,10000000,6d,15
+Army,Blacksmith,9,1500,,11000000,7d,16
+Army,Blacksmith,10,1600,,18000000,10d,17
+Army,Clan Castle,1,600,,10000,Instant,3
+Army,Dark Barracks,1,500,,200000,8h,7
+Army,Dark Barracks,2,550,,600000,1d,7
+Army,Dark Barracks,3,600,,1000000,1d 12h,8
+Army,Dark Barracks,4,650,,1600000,2d,8
+Army,Dark Barracks,5,700,,2200000,2d 12h,9
+Army,Dark Barracks,6,750,,2900000,3d,9
+Army,Dark Barracks,7,800,,4000000,5d,10
+Army,Dark Barracks,8,850,,7000000,6d,11
+Army,Dark Barracks,9,900,,7200000,7d,12
+Army,Dark Barracks,10,950,,10000000,7d 12h,13
+Army,Dark Barracks,11,1000,,12000000,8d,14
+Army,Dark Barracks,12,1050,,20000000,9d,15
+Army,Dark Spell Factory,1,600,,130000,6h,8
+Army,Hero Hall,1,800,,30000,1h,4
+Army,Laboratory,1,500,,5000,1m,3
+Army,Pet House,1,700,,3000000,1d,14
+Army,Pet House,2,800,,4000000,2d,14
+Army,Pet House,3,900,,5000000,3d,14
+Army,Pet House,4,1000,,6000000,3d 12h,14
+Army,Pet House,5,1050,,7000000,4d,15
+Army,Pet House,6,1100,,8000000,4d 12h,15
+Army,Pet House,7,1150,,9000000,5d,15
+Army,Pet House,8,1200,,10000000,5d 12h,15
+Army,Pet House,9,1250,,11000000,6d,16
+Army,Pet House,10,1300,,12000000,7d,16
+Army,Pet House,11,1350,,16500000,8d,17
+Army,Pet House,12,1400,,25500000,13d 12h,18
+Army,Siege Workshop,1,1000,,2400000,2d,12
+Army,Siege Workshop,2,1100,,3700000,3d,12
+Army,Siege Workshop,3,1200,,5000000,3d 12h,12
+Army,Siege Workshop,4,1300,,8700000,4d,13
+Army,Siege Workshop,5,1400,,9000000,5d,13
+Army,Siege Workshop,6,1500,,10000000,5d 12h,14
+Army,Siege Workshop,7,1600,,11000000,6d,15
+Army,Siege Workshop,8,1700,,13000000,7d,16
+Army,Siege Workshop,9,1800,,26000000,13d 12h,17
+Army,Spell Factory,1,425,,150000,6h,5
+Builder Base,Air Bombs,1,1000,,300000,6h,4
+Builder Base,Air Bombs,2,1100,,320000,12h,4
+Builder Base,Air Bombs,3,1250,,340000,1d,4
+Builder Base,Air Bombs,4,1400,,360000,2d,4
+Builder Base,Air Bombs,5,1600,,1200000,3d,5
+Builder Base,Air Bombs,6,1850,,1500000,5d,6
+Builder Base,Air Bombs,7,2100,,2400000,7d,7
+Builder Base,Air Bombs,8,2350,,3400000,8d,8
+Builder Base,Air Bombs,9,2600,,4400000,10d,9
+Builder Base,Air Bombs,10,2900,,5400000,12d,10
+Builder Base,Archer Tower,1,500,40,12000,5m,2
+Builder Base,Archer Tower,2,575,44,30000,15m,3
+Builder Base,Archer Tower,3,660,48,60000,2h,3
+Builder Base,Archer Tower,4,760,53,250000,8h,4
+Builder Base,Archer Tower,5,875,59,800000,1d,5
+Builder Base,Archer Tower,6,1050,64,1200000,2d,6
+Builder Base,Archer Tower,7,1250,71,2000000,4d,7
+Builder Base,Archer Tower,8,1450,78,2800000,6d,8
+Builder Base,Archer Tower,9,1650,86,3600000,8d,9
+Builder Base,Archer Tower,10,1850,94,4600000,9d,10
+Builder Base,Army Camp,1,300,,N/A,N/A,1
+Builder Base,BOB Control,1,250,,100000,Instant,9
+Builder Base,BOB Control,2,250,,500000,Instant,
+Builder Base,BOB Control,3,250,,1000000,Instant,
+Builder Base,BOB Control,4,250,,2000000,Instant,
+Builder Base,BOB Control,5,250,,3000000,Instant,
+Builder Base,Barracks,1,300,,1000,Instant,1
+Builder Base,Barracks,2,350,,4000,1m,2
+Builder Base,Barracks,3,400,,10000,10m,3
+Builder Base,Barracks,4,460,,25000,30m,3
+Builder Base,Barracks,5,550,,100000,3h,4
+Builder Base,Barracks,6,650,,150000,6h,4
+Builder Base,Barracks,7,750,,300000,9h,5
+Builder Base,Barracks,8,850,,500000,1d,6
+Builder Base,Barracks,9,1000,,1000000,2d,7
+Builder Base,Barracks,10,1150,,1500000,3d,8
+Builder Base,Barracks,11,1300,,2000000,4d,9
+Builder Base,Barracks,12,1450,,3000000,5d,10
+Builder Base,Battle Copter Altar,1,250,,2500000,Instant,5
+Builder Base,Battle Machine Altar,1,250,,900000,12h,5
+Builder Base,Builder Hall,1,650,,N/A,N/A,
+Builder Base,Builder Hall,2,800,,3500,5s,
+Builder Base,Builder Hall,3,975,,30000,1h,
+Builder Base,Builder Hall,4,1150,,200000,1d,
+Builder Base,Builder Hall,5,1350,,400000,2d,
+Builder Base,Builder Hall,6,1600,,1200000,3d,
+Builder Base,Builder Hall,7,1850,,1800000,4d,
+Builder Base,Builder Hall,8,2150,,2800000,5d,
+Builder Base,Builder Hall,9,2450,,3800000,6d,
+Builder Base,Builder Hall,10,2750,,4800000,7d,
+Builder Base,Builders Hut,1,300,,1000,Instant,2
+Builder Base,Cannon,1,500,,10000,1m,1
+Builder Base,Cannon,2,575,,20000,5m,3
+Builder Base,Cannon,3,660,,50000,2h,3
+Builder Base,Cannon,4,760,,200000,8h,4
+Builder Base,Cannon,5,875,,600000,1d,5
+Builder Base,Cannon,6,1050,,1000000,2d,6
+Builder Base,Cannon,7,1250,,1800000,4d,7
+Builder Base,Cannon,8,1450,,2500000,6d,8
+Builder Base,Cannon,9,1650,,3300000,8d,9
+Builder Base,Cannon,10,1850,,4500000,9d,10
+Builder Base,Clock Tower,1,650,,150000,2h,4
+Builder Base,Clock Tower,2,800,,180000,3h,4
+Builder Base,Clock Tower,3,975,,220000,4h,4
+Builder Base,Clock Tower,4,1150,,300000,6h,4
+Builder Base,Clock Tower,5,1350,,700000,12h,5
+Builder Base,Clock Tower,6,1600,,1200000,1d,6
+Builder Base,Clock Tower,7,1850,,1700000,2d,7
+Builder Base,Clock Tower,8,2150,,2200000,3d,8
+Builder Base,Clock Tower,9,2450,,2700000,4d,9
+Builder Base,Clock Tower,10,2750,,3700000,5d,10
+Builder Base,Crusher,1,1000,,120000,2h,3
+Builder Base,Crusher,2,1100,,180000,5h,3
+Builder Base,Crusher,3,1250,,220000,12h,3
+Builder Base,Crusher,4,1400,,350000,1d,4
+Builder Base,Crusher,5,1600,,1200000,2d,5
+Builder Base,Crusher,6,1850,,1500000,4d,6
+Builder Base,Crusher,7,2100,,2400000,6d,7
+Builder Base,Crusher,8,2350,,3400000,8d,8
+Builder Base,Crusher,9,2600,,4400000,10d,9
+Builder Base,Crusher,10,2900,,5400000,12d,10
+Builder Base,Double Cannon,1,600,,20000,10m,2
+Builder Base,Double Cannon,2,690,,50000,1h,3
+Builder Base,Double Cannon,3,800,,80000,3h,3
+Builder Base,Double Cannon,4,910,,300000,12h,4
+Builder Base,Double Cannon,5,1050,,900000,1d,5
+Builder Base,Double Cannon,6,1250,,1400000,2d,6
+Builder Base,Double Cannon,7,1450,,2200000,4d,7
+Builder Base,Double Cannon,8,1700,,3200000,6d,8
+Builder Base,Double Cannon,9,1950,,4200000,8d,9
+Builder Base,Double Cannon,10,2200,,5200000,10d,10
+Builder Base,Elixir Collector,1,300,,1000,10m,1
+Builder Base,Elixir Collector,2,350,,5000,20m,3
+Builder Base,Elixir Collector,3,400,,10000,40m,3
+Builder Base,Elixir Collector,4,460,,30000,2h,4
+Builder Base,Elixir Collector,5,550,,60000,6h,5
+Builder Base,Elixir Collector,6,650,,100000,1d,6
+Builder Base,Elixir Collector,7,750,,200000,1d 12h,7
+Builder Base,Elixir Collector,8,850,,300000,2d,8
+Builder Base,Elixir Collector,9,1000,,400000,2d 12h,9
+Builder Base,Elixir Collector,10,1150,,800000,3d,10
+Builder Base,Elixir Storage,1,650,,20000,30m,3
+Builder Base,Elixir Storage,2,800,,80000,1h,3
+Builder Base,Elixir Storage,3,975,,200000,3h,3
+Builder Base,Elixir Storage,4,1150,,300000,6h,4
+Builder Base,Elixir Storage,5,1350,,600000,12h,5
+Builder Base,Elixir Storage,6,1600,,1000000,1d,6
+Builder Base,Elixir Storage,7,1850,,1500000,2d,7
+Builder Base,Elixir Storage,8,2150,,2000000,3d,8
+Builder Base,Elixir Storage,9,2450,,2500000,4d,9
+Builder Base,Elixir Storage,10,2750,,3200000,5d,10
+Builder Base,Firecrackers,1,400,,40000,15m,3
+Builder Base,Firecrackers,2,460,,80000,2h,3
+Builder Base,Firecrackers,3,530,,120000,4h,3
+Builder Base,Firecrackers,4,610,,300000,12h,4
+Builder Base,Firecrackers,5,700,,800000,1d,5
+Builder Base,Firecrackers,6,850,,1200000,2d,6
+Builder Base,Firecrackers,7,1000,,2000000,4d,7
+Builder Base,Firecrackers,8,1150,,3000000,6d,8
+Builder Base,Firecrackers,9,1300,,4000000,8d,9
+Builder Base,Firecrackers,10,1500,,5000000,9d,10
+Builder Base,Gem Mine,1,300,,120000,1h,3
+Builder Base,Gem Mine,2,350,,180000,2h,3
+Builder Base,Gem Mine,3,400,,240000,6h,3
+Builder Base,Gem Mine,4,460,,450000,8h,4
+Builder Base,Gem Mine,5,550,,1000000,12h,5
+Builder Base,Gem Mine,6,650,,1500000,1d,6
+Builder Base,Gem Mine,7,750,,2500000,2d,7
+Builder Base,Gem Mine,8,850,,3500000,4d,8
+Builder Base,Gem Mine,9,1000,,4500000,6d,9
+Builder Base,Gem Mine,10,1150,,5500000,8d,10
+Builder Base,Giant Cannon,1,700,,2000000,1d,7
+Builder Base,Giant Cannon,2,800,,2100000,2d,7
+Builder Base,Giant Cannon,3,950,,2200000,3d,7
+Builder Base,Giant Cannon,4,1100,,2300000,4d,7
+Builder Base,Giant Cannon,5,1300,,2400000,5d,7
+Builder Base,Giant Cannon,6,1500,,2500000,6d,7
+Builder Base,Giant Cannon,7,1700,,2700000,8d,7
+Builder Base,Giant Cannon,8,1900,,3800000,10d,8
+Builder Base,Giant Cannon,9,2150,,4700000,11d,9
+Builder Base,Giant Cannon,10,2400,,5700000,12d,10
+Builder Base,Gold Mine,1,300,,1000,10m,1
+Builder Base,Gold Mine,2,350,,5000,20m,3
+Builder Base,Gold Mine,3,400,,10000,40m,3
+Builder Base,Gold Mine,4,460,,30000,2h,4
+Builder Base,Gold Mine,5,550,,60000,6h,5
+Builder Base,Gold Mine,6,650,,100000,1d,6
+Builder Base,Gold Mine,7,750,,200000,1d 12h,7
+Builder Base,Gold Mine,8,850,,300000,2d,8
+Builder Base,Gold Mine,9,1000,,400000,2d 12h,9
+Builder Base,Gold Mine,10,1150,,800000,3d,10
+Builder Base,Gold Storage,1,650,,20000,30m,3
+Builder Base,Gold Storage,2,800,,80000,1h,3
+Builder Base,Gold Storage,3,975,,200000,3h,3
+Builder Base,Gold Storage,4,1150,,300000,6h,4
+Builder Base,Gold Storage,5,1350,,600000,12h,5
+Builder Base,Gold Storage,6,1600,,1000000,1d,6
+Builder Base,Gold Storage,7,1850,,1500000,2d,7
+Builder Base,Gold Storage,8,2150,,2000000,3d,8
+Builder Base,Gold Storage,9,2450,,2500000,4d,9
+Builder Base,Gold Storage,10,2750,,3200000,5d,10
+Builder Base,Guard Post,1,300,,200000,4h,4
+Builder Base,Guard Post,2,350,,240000,8h,4
+Builder Base,Guard Post,3,400,,280000,12h,4
+Builder Base,Guard Post,4,460,,320000,1d,4
+Builder Base,Guard Post,5,550,,1000000,2d,5
+Builder Base,Guard Post,6,650,,1400000,4d,6
+Builder Base,Guard Post,7,750,,2300000,6d,7
+Builder Base,Guard Post,8,850,,3200000,8d,8
+Builder Base,Guard Post,9,1000,,4100000,10d,9
+Builder Base,Guard Post,10,1150,,5100000,12d,10
+Builder Base,Healing Hut,1,550,,1500000,1d 6h,6
+Builder Base,Healing Hut,2,650,,2000000,2d,6
+Builder Base,Healing Hut,3,750,,2500000,3d,7
+Builder Base,Healing Hut,4,850,,3250000,4d,8
+Builder Base,Healing Hut,5,1000,,4000000,5d,9
+Builder Base,Healing Hut,6,1150,,5000000,6d,10
+Builder Base,Hidden Tesla,1,300,,50000,30m,3
+Builder Base,Hidden Tesla,2,350,,100000,3h,3
+Builder Base,Hidden Tesla,3,400,,150000,5h,3
+Builder Base,Hidden Tesla,4,460,,280000,10h,4
+Builder Base,Hidden Tesla,5,550,,700000,1d,5
+Builder Base,Hidden Tesla,6,650,,1300000,2d,6
+Builder Base,Hidden Tesla,7,750,,2100000,4d,7
+Builder Base,Hidden Tesla,8,850,,3100000,6d,8
+Builder Base,Hidden Tesla,9,1000,,4100000,8d,9
+Builder Base,Hidden Tesla,10,1150,,5100000,10d,10
+Builder Base,Lava Launcher,1,500,,3000000,2d,9
+Builder Base,Lava Launcher,2,575,,3100000,3d,9
+Builder Base,Lava Launcher,3,660,,3200000,4d,9
+Builder Base,Lava Launcher,4,760,,3400000,5d,9
+Builder Base,Lava Launcher,5,875,,3700000,6d,9
+Builder Base,Lava Launcher,6,1050,,4000000,7d,9
+Builder Base,Lava Launcher,7,1250,,4300000,8d,9
+Builder Base,Lava Launcher,8,1450,,4600000,10d,9
+Builder Base,Lava Launcher,9,1650,,4900000,11d,9
+Builder Base,Lava Launcher,10,1850,,5900000,12d,10
+Builder Base,Mega Tesla,1,700,,3000000,2d,8
+Builder Base,Mega Tesla,2,800,,3100000,3d,8
+Builder Base,Mega Tesla,3,950,,3200000,4d,8
+Builder Base,Mega Tesla,4,1100,,3300000,5d,8
+Builder Base,Mega Tesla,5,1300,,3400000,6d,8
+Builder Base,Mega Tesla,6,1500,,3600000,7d,8
+Builder Base,Mega Tesla,7,1700,,3800000,8d,8
+Builder Base,Mega Tesla,8,1900,,4000000,10d,8
+Builder Base,Mega Tesla,9,2150,,4800000,11d,9
+Builder Base,Mega Tesla,10,2400,,5800000,12d,10
+Builder Base,Multi Mortar,1,500,,600000,8h,5
+Builder Base,Multi Mortar,2,575,,700000,12h,5
+Builder Base,Multi Mortar,3,660,,800000,1d,5
+Builder Base,Multi Mortar,4,760,,1000000,2d,5
+Builder Base,Multi Mortar,5,875,,1200000,3d,5
+Builder Base,Multi Mortar,6,1050,,1600000,5d,6
+Builder Base,Multi Mortar,7,1250,,2500000,7d,7
+Builder Base,Multi Mortar,8,1450,,3500000,9d,8
+Builder Base,Multi Mortar,9,1650,,4500000,11d,9
+Builder Base,Multi Mortar,10,1850,,5500000,12d,10
+Builder Base,OTTOs Outpost,1,650,,N/A,N/A,6
+Builder Base,OTTOs Outpost,2,800,,1000000,1d,6
+Builder Base,OTTOs Outpost,3,975,,1250000,2d,6
+Builder Base,OTTOs Outpost,4,1150,,1500000,3d,6
+Builder Base,OTTOs Outpost,5,1350,,1750000,4d,6
+Builder Base,OTTOs Outpost,6,1600,,2000000,5d,6
+Builder Base,OTTOs Outpost,7,1850,,3000000,7d,7
+Builder Base,OTTOs Outpost,8,2150,,4000000,9d,8
+Builder Base,OTTOs Outpost,9,2450,,5000000,10d,9
+Builder Base,OTTOs Outpost,10,2750,,6000000,11d,10
+Builder Base,Reinforcement Camp,1,300,,1500000,Instant,1
+Builder Base,Roaster,1,800,,1000000,1d,6
+Builder Base,Roaster,2,950,,1200000,2d,6
+Builder Base,Roaster,3,1100,,1400000,3d,6
+Builder Base,Roaster,4,1300,,1500000,4d,6
+Builder Base,Roaster,5,1500,,1600000,5d,6
+Builder Base,Roaster,6,1700,,1700000,6d,6
+Builder Base,Roaster,7,1900,,2600000,8d,7
+Builder Base,Roaster,8,2100,,3600000,10d,8
+Builder Base,Roaster,9,2350,,4600000,11d,9
+Builder Base,Roaster,10,2600,,5600000,12d,10
+Builder Base,Star Laboratory,1,650,,1000,Instant,1
+Builder Base,Star Laboratory,2,800,,15000,10m,2
+Builder Base,Star Laboratory,3,975,,50000,30m,3
+Builder Base,Star Laboratory,4,1150,,300000,8h,4
+Builder Base,Star Laboratory,5,1350,,700000,12h,5
+Builder Base,Star Laboratory,6,1600,,1000000,2d,6
+Builder Base,Star Laboratory,7,1850,,2000000,4d,7
+Builder Base,Star Laboratory,8,2150,,3000000,6d,8
+Builder Base,Star Laboratory,9,2450,,4000000,8d,9
+Builder Base,Star Laboratory,10,2750,,5000000,10d,10
+Builder Base,Wall,1,900,,N/A,N/A,2
+Builder Base,Wall,2,1100,,2000,Instant,3
+Builder Base,Wall,3,1300,,10000,Instant,3
+Builder Base,Wall,4,1600,,50000,Instant,4
+Builder Base,Wall,5,1900,,150000,Instant,5
+Builder Base,Wall,6,2200,,240000,Instant,6
+Builder Base,Wall,7,2500,,400000,Instant,7
+Builder Base,Wall,8,2750,,600000,Instant,8
+Builder Base,Wall,9,3050,,800000,Instant,9
+Builder Base,Wall,10,3350,,1000000,Instant,10
+Builder Base,X-Bow,1,1700,80,4400000,7d,10
+Builder Base,X-Bow,2,1900,89,4800000,8d,10
+Builder Base,X-Bow,3,2100,97,5200000,10d,10
+Builder Base,X-Bow,4,2350,107,5600000,11d,10
+Builder Base,X-Bow,5,2600,117,6000000,12d,10
+Builder Base Traps,Mega Mine,1,,,30000,30m,4
+Builder Base Traps,Mega Mine,2,,,40000,1h,4
+Builder Base Traps,Mega Mine,3,,,50000,3h,4
+Builder Base Traps,Mega Mine,4,,,80000,6h,4
+Builder Base Traps,Mega Mine,5,,,120000,12h,5
+Builder Base Traps,Mega Mine,6,,,300000,1d,6
+Builder Base Traps,Mega Mine,7,,,600000,1d 12h,7
+Builder Base Traps,Mega Mine,8,,,1000000,2d,8
+Builder Base Traps,Mega Mine,9,,,1400000,3d,9
+Builder Base Traps,Mega Mine,10,,,2500000,4d,10
+Builder Base Traps,Mine,1,,,5000,10m,3
+Builder Base Traps,Mine,2,,,10000,30m,3
+Builder Base Traps,Mine,3,,,15000,1h,3
+Builder Base Traps,Mine,4,,,25000,2h,4
+Builder Base Traps,Mine,5,,,50000,6h,5
+Builder Base Traps,Mine,6,,,80000,12h,6
+Builder Base Traps,Mine,7,,,120000,1d,7
+Builder Base Traps,Mine,8,,,250000,1d 12h,8
+Builder Base Traps,Mine,9,,,500000,2d,9
+Builder Base Traps,Mine,10,,,1500000,2d 12h,10
+Builder Base Traps,Push Trap,1,,,1000,2m,2
+Builder Base Traps,Push Trap,2,,,3000,5m,3
+Builder Base Traps,Push Trap,3,,,10000,20m,3
+Builder Base Traps,Push Trap,4,,,20000,2h,4
+Builder Base Traps,Push Trap,5,,,40000,4h,5
+Builder Base Traps,Push Trap,6,,,60000,12h,6
+Builder Base Traps,Push Trap,7,,,100000,16h,7
+Builder Base Traps,Push Trap,8,,,200000,1d,8
+Builder Base Traps,Push Trap,9,,,300000,1d 12h,9
+Builder Base Traps,Push Trap,10,,,500000,2d,10
+Builder Base Traps,Spring Trap,1,,,10000,30m,3
+Builder Base Traps,Spring Trap,2,,,30000,1h,4
+Builder Base Traps,Spring Trap,3,,,100000,1d,6
+Builder Base Traps,Spring Trap,4,,,300000,2d,8
+Builder Base Traps,Spring Trap,5,,,500000,3d,10
+Builder Base Troops,Baby Dragon,1,2358,120,N/A,N/A,1
+Builder Base Troops,Bat,1,10,20,N/A,N/A,1
+Builder Base Troops,Beta Minion,1,429,126,N/A,N/A,1
+Builder Base Troops,Bomber,1,1179,150,N/A,N/A,1
+Builder Base Troops,Boxer Giant,1,5423,129,N/A,N/A,1
+Builder Base Troops,Cannon Cart,1,1179,240,N/A,N/A,1
+Builder Base Troops,Drop Ship,1,4978,10,N/A,N/A,1
+Builder Base Troops,Drop Ship Skeleton,1,10,20,N/A,N/A,1
+Builder Base Troops,Electrofire Wizard,1,1210,253,N/A,N/A,1
+Builder Base Troops,Enraged Bat,1,10,20,N/A,N/A,1
+Builder Base Troops,Hog Glider,1,700,1300,N/A,N/A,1
+Builder Base Troops,Hog Rider,1,1533,139,N/A,N/A,1
+Builder Base Troops,MovingCannonSecondary,1,300,297,N/A,N/A,1
+Builder Base Troops,Night Witch,1,1220,278,N/A,N/A,1
+Builder Base Troops,Power P.E.K.K.A,1,5191,560,N/A,N/A,1
+Builder Base Troops,Raged Barbarian,1,1179,136,N/A,N/A,1
+Builder Base Troops,Sneaky Archer,1,462,125,N/A,N/A,1
+Builder Base Troops,Zappy,1,518,80,N/A,N/A,1
+Defenses,Air Defense,1,800,80,22000,1h,4
+Defenses,Air Defense,2,850,110,90000,2h,4
+Defenses,Air Defense,3,900,140,210000,6h,5
+Defenses,Air Defense,4,950,160,500000,12h,6
+Defenses,Air Defense,5,1000,190,800000,18h,7
+Defenses,Air Defense,6,1050,230,1000000,1d,8
+Defenses,Air Defense,7,1100,280,1750000,2d,9
+Defenses,Air Defense,8,1210,320,2300000,2d 12h,10
+Defenses,Air Defense,9,1300,360,3400000,3d,11
+Defenses,Air Defense,10,1400,400,5000000,4d,12
+Defenses,Air Defense,11,1500,440,5600000,4d 12h,13
+Defenses,Air Defense,12,1650,500,6500000,5d,14
+Defenses,Air Defense,13,1750,540,8000000,6d,15
+Defenses,Air Defense,14,1850,600,9000000,6d 12h,16
+Defenses,Air Defense,15,1950,650,15000000,7d,17
+Defenses,Air Defense,16,2000,700,26000000,13d 6h,18
+Defenses,Air Sweeper,1,750,,200000,4h,6
+Defenses,Air Sweeper,2,800,,300000,6h,6
+Defenses,Air Sweeper,3,850,,450000,8h,7
+Defenses,Air Sweeper,4,900,,800000,12h,8
+Defenses,Air Sweeper,5,950,,1200000,1d,9
+Defenses,Air Sweeper,6,1000,,1900000,2d,10
+Defenses,Air Sweeper,7,1050,,3400000,3d,11
+Defenses,Archer Tower,1,380,11,1000,15s,2
+Defenses,Archer Tower,2,420,15,2000,2m,2
+Defenses,Archer Tower,3,460,19,5000,20m,3
+Defenses,Archer Tower,4,500,25,20000,1h,4
+Defenses,Archer Tower,5,540,30,70000,1h 30m,5
+Defenses,Archer Tower,6,580,35,80000,2h,5
+Defenses,Archer Tower,7,630,42,150000,3h,6
+Defenses,Archer Tower,8,690,48,200000,4h,7
+Defenses,Archer Tower,9,750,56,400000,5h,8
+Defenses,Archer Tower,10,810,63,460000,6h,8
+Defenses,Archer Tower,11,890,70,600000,7h,9
+Defenses,Archer Tower,12,970,74,700000,8h,10
+Defenses,Archer Tower,13,1050,78,1000000,10h,10
+Defenses,Archer Tower,14,1130,82,1100000,11h,11
+Defenses,Archer Tower,15,1230,85,1300000,12h,11
+Defenses,Archer Tower,16,1310,90,1600000,16h,12
+Defenses,Archer Tower,17,1390,100,1800000,20h,12
+Defenses,Archer Tower,18,1510,110,2000000,1d,13
+Defenses,Archer Tower,19,1600,120,2200000,1d 6h,13
+Defenses,Archer Tower,20,1700,135,3000000,1d 12h,14
+Defenses,Archer Tower,21,1800,145,4000000,2d,15
+Defenses,Bomb Tower,1,650,24,700000,12h,8
+Defenses,Bomb Tower,2,700,28,1000000,18h,8
+Defenses,Bomb Tower,3,750,32,1300000,1d,9
+Defenses,Bomb Tower,4,850,40,1800000,1d 12h,10
+Defenses,Bomb Tower,5,1050,48,1900000,1d 18h,11
+Defenses,Bomb Tower,6,1300,56,2000000,2d,11
+Defenses,Bomb Tower,7,1600,64,4000000,3d,12
+Defenses,Bomb Tower,8,1900,72,5000000,3d 12h,13
+Defenses,Bomb Tower,9,2300,84,6000000,4d,14
+Defenses,Bomb Tower,10,2500,94,7000000,4d 12h,15
+Defenses,Bomb Tower,11,2700,104,8500000,5d,16
+Defenses,Bomb Tower,12,2900,114,14500000,7d,17
+Defenses,Bomb Tower,13,3050,122,25000000,13d,18
+Defenses,Cannon,1,300,7,250,5s,1
+Defenses,Cannon,2,360,10,1000,30s,2
+Defenses,Cannon,3,420,13,4000,2m,2
+Defenses,Cannon,4,500,17,16000,20m,3
+Defenses,Cannon,5,600,23,50000,30m,4
+Defenses,Cannon,6,660,30,60000,1h,5
+Defenses,Cannon,7,730,40,100000,2h,6
+Defenses,Cannon,8,800,48,160000,3h,7
+Defenses,Cannon,9,880,56,250000,3h 30m,8
+Defenses,Cannon,10,960,64,330000,4h,8
+Defenses,Cannon,11,1060,74,500000,4h 30m,9
+Defenses,Cannon,12,1160,85,600000,5h,10
+Defenses,Cannon,13,1260,95,660000,6h,10
+Defenses,Cannon,14,1380,100,1000000,8h,11
+Defenses,Cannon,15,1500,105,1200000,10h,11
+Defenses,Cannon,16,1620,110,1300000,11h,12
+Defenses,Cannon,17,1740,115,1500000,12h,12
+Defenses,Cannon,18,1870,125,1800000,16h,13
+Defenses,Cannon,19,2000,135,2000000,20h,13
+Defenses,Cannon,20,2150,150,2600000,1d,14
+Defenses,Cannon,21,2250,160,3000000,1d 12h,15
+Defenses,Crafting Station,1,1000,,N/A,N/A,17
+Defenses,Eagle Artillery,1,4000,0,5000000,4d,11
+Defenses,Eagle Artillery,2,4400,,6000000,5d,11
+Defenses,Eagle Artillery,3,4800,,9000000,7d,12
+Defenses,Eagle Artillery,4,5200,,10000000,7d 12h,13
+Defenses,Eagle Artillery,5,5600,,12000000,8d,14
+Defenses,Eagle Artillery,6,5900,,13000000,9d,15
+Defenses,Eagle Artillery,7,6200,,14000000,9d 12h,16
+Defenses,Firespitter,1,4500,411,17000000,8d 12h,17
+Defenses,Hidden Tesla,1,600,34,250000,2h,7
+Defenses,Hidden Tesla,2,630,40,350000,3h,7
+Defenses,Hidden Tesla,3,660,48,500000,4h,7
+Defenses,Hidden Tesla,4,690,55,600000,6h,8
+Defenses,Hidden Tesla,5,730,64,800000,12h,8
+Defenses,Hidden Tesla,6,770,75,1200000,1d,8
+Defenses,Hidden Tesla,7,810,87,1400000,1d 6h,9
+Defenses,Hidden Tesla,8,850,99,1600000,1d 12h,10
+Defenses,Hidden Tesla,9,900,110,2100000,1d 18h,11
+Defenses,Hidden Tesla,10,980,120,3000000,2d,12
+Defenses,Hidden Tesla,11,1100,130,3100000,2d 12h,13
+Defenses,Hidden Tesla,12,1200,140,3700000,3d,13
+Defenses,Hidden Tesla,13,1350,150,5100000,3d 12h,14
+Defenses,Hidden Tesla,14,1450,160,6500000,4d,15
+Defenses,Hidden Tesla,15,1550,170,8200000,5d,16
+Defenses,Hidden Tesla,16,1650,180,15000000,7d,17
+Defenses,Hidden Tesla,17,1750,190,25000000,13d,18
+Defenses,Inferno Tower,1,1500,30,1000000,12h,10
+Defenses,Inferno Tower,2,1800,35,1200000,1d,10
+Defenses,Inferno Tower,3,2100,40,2400000,2d,10
+Defenses,Inferno Tower,4,2400,45,3400000,2d 12h,11
+Defenses,Inferno Tower,5,2700,50,4000000,3d,11
+Defenses,Inferno Tower,6,3000,55,6000000,4d,12
+Defenses,Inferno Tower,7,3300,65,8000000,5d,13
+Defenses,Inferno Tower,8,3700,80,9500000,6d,14
+Defenses,Inferno Tower,9,4000,100,10000000,6d 12h,15
+Defenses,Inferno Tower,10,4400,120,11000000,7d,16
+Defenses,Inferno Tower,11,4800,140,16000000,8d,17
+Defenses,Inferno Tower,12,5100,155,26500000,13d 12h,18
+Defenses,Monolith,1,4747,150,200000,7d,15
+Defenses,Monolith,2,5050,175,250000,8d,15
+Defenses,Monolith,3,5353,193,260000,9d,16
+Defenses,Monolith,4,5656,209,300000,11d,17
+Defenses,Mortar,1,400,4,5000,30m,3
+Defenses,Mortar,2,450,5,25000,1h,4
+Defenses,Mortar,3,500,6,90000,2h,5
+Defenses,Mortar,4,550,7,180000,3h,6
+Defenses,Mortar,5,600,9,300000,6h,7
+Defenses,Mortar,6,650,11,500000,8h,8
+Defenses,Mortar,7,700,15,900000,12h,9
+Defenses,Mortar,8,800,20,1200000,18h,10
+Defenses,Mortar,9,950,25,1600000,20h,11
+Defenses,Mortar,10,1100,30,1800000,1d,11
+Defenses,Mortar,11,1300,35,2300000,1d 6h,12
+Defenses,Mortar,12,1500,38,2400000,1d 12h,12
+Defenses,Mortar,13,1700,42,2800000,2d,13
+Defenses,Mortar,14,1950,48,4300000,2d 12h,14
+Defenses,Mortar,15,2150,54,5000000,3d,15
+Defenses,Mortar,16,2300,60,7000000,4d,16
+Defenses,Mortar,17,2450,66,13000000,5d,17
+Defenses,Mortar,18,2550,72,21000000,12d 12h,18
+Defenses,Multi Archer Tower,1,5000,,12000000,7d,16
+Defenses,Multi Gear Tower,1,4000,350,17000000,8d,17
+Defenses,Revenge Tower,1,5800,,430000,13d 5s,18
+Defenses,Ricochet Cannon,1,5400,360,12000000,7d,16
+Defenses,Scattershot,1,3600,125,8000000,5d,13
+Defenses,Scattershot,2,4200,150,9000000,7d,13
+Defenses,Scattershot,3,4800,170,11000000,7d 12h,14
+Defenses,Scattershot,4,5100,175,11500000,8d,15
+Defenses,Scattershot,5,5410,180,12000000,8d 12h,16
+Defenses,Scattershot,6,5600,185,16500000,9d,17
+Defenses,Scattershot,7,5800,190,26500000,15d,18
+Defenses,Spell Tower,1,2500,,9000000,7d,15
+Defenses,Spell Tower,2,2800,,11000000,8d,15
+Defenses,Spell Tower,3,3100,,12000000,8d 12h,15
+Defenses,Spell Tower,4,3200,,27000000,10d,17
+Defenses,Super Wizard Tower,1,6000,290,29000000,13d,18
+Defenses,Unused2,1,300,7,250,5s,1000
+Defenses,Unused3,1,300,7,250,5s,1000
+Defenses,Unused4,1,300,7,250,5s,1000
+Defenses,Unused5,1,300,7,250,5s,1000
+Defenses,Unused6,1,300,7,250,5s,1000
+Defenses,Wizard Tower,1,620,11,100000,1h,5
+Defenses,Wizard Tower,2,650,13,150000,1h 30m,5
+Defenses,Wizard Tower,3,680,16,250000,4h,6
+Defenses,Wizard Tower,4,730,20,400000,8h,7
+Defenses,Wizard Tower,5,840,24,550000,10h,8
+Defenses,Wizard Tower,6,960,32,660000,12h,8
+Defenses,Wizard Tower,7,1200,40,1000000,18h,9
+Defenses,Wizard Tower,8,1440,45,1100000,20h,10
+Defenses,Wizard Tower,9,1600,50,1300000,1d,10
+Defenses,Wizard Tower,10,1900,62,2000000,1d 6h,11
+Defenses,Wizard Tower,11,2120,70,2500000,1d 12h,12
+Defenses,Wizard Tower,12,2240,78,2600000,1d 18h,13
+Defenses,Wizard Tower,13,2500,84,3000000,2d,13
+Defenses,Wizard Tower,14,2800,90,4500000,3d,14
+Defenses,Wizard Tower,15,3000,95,5500000,4d,15
+Defenses,Wizard Tower,16,3150,102,8000000,4d 12h,16
+Defenses,Wizard Tower,17,3300,110,14000000,5d 12h,17
+Defenses,X-Bow,1,1500,60,1000000,12h,9
+Defenses,X-Bow,2,1900,70,1200000,1d,9
+Defenses,X-Bow,3,2300,80,2400000,2d,9
+Defenses,X-Bow,4,2700,85,2500000,2d 12h,10
+Defenses,X-Bow,5,3100,95,3900000,3d,11
+Defenses,X-Bow,6,3400,110,5000000,3d 12h,12
+Defenses,X-Bow,7,3700,130,6000000,4d,13
+Defenses,X-Bow,8,4000,155,7000000,4d 12h,13
+Defenses,X-Bow,9,4200,185,9000000,5d,14
+Defenses,X-Bow,10,4400,205,9500000,5d 12h,15
+Defenses,X-Bow,11,4600,225,10000000,6d,16
+Defenses,X-Bow,12,4800,235,16000000,8d,17
+Defenses,X-Bow,13,5000,245,26000000,13d 12h,18
+Hero Equipment,Archer Puppet,1,,28,120 / - / -,Instant,1
+Hero Equipment,Archer Puppet,2,,37,240 / 20 / -,Instant,1
+Hero Equipment,Archer Puppet,3,,46,400 / - / -,Instant,1
+Hero Equipment,Archer Puppet,4,,54,600 / - / -,Instant,1
+Hero Equipment,Archer Puppet,5,,61,840 / 100 / -,Instant,1
+Hero Equipment,Archer Puppet,6,,68,1120 / - / -,Instant,1
+Hero Equipment,Archer Puppet,7,,78,1440 / - / -,Instant,1
+Hero Equipment,Archer Puppet,8,,88,1800 / 200 / -,Instant,1
+Hero Equipment,Archer Puppet,9,,99,1900 / - / -,Instant,1
+Hero Equipment,Archer Puppet,10,,110,2000 / - / -,Instant,3
+Hero Equipment,Archer Puppet,11,,120,2100 / 400 / -,Instant,3
+Hero Equipment,Archer Puppet,12,,127,2200 / - / -,Instant,3
+Hero Equipment,Archer Puppet,13,,134,2300 / - / -,Instant,5
+Hero Equipment,Archer Puppet,14,,140,2400 / 600 / -,Instant,5
+Hero Equipment,Archer Puppet,15,,145,2500 / - / -,Instant,5
+Hero Equipment,Archer Puppet,16,,150,2600 / - / -,Instant,7
+Hero Equipment,Archer Puppet,17,,154,2700 / 600 / -,Instant,7
+Hero Equipment,Archer Puppet,18,,159,N/A,Instant,7
+Hero Equipment,Barbarian Puppet,1,309,,120 / - / -,Instant,1
+Hero Equipment,Barbarian Puppet,2,385,,240 / 20 / -,Instant,1
+Hero Equipment,Barbarian Puppet,3,467,,400 / - / -,Instant,1
+Hero Equipment,Barbarian Puppet,4,564,,600 / - / -,Instant,1
+Hero Equipment,Barbarian Puppet,5,649,,840 / 100 / -,Instant,1
+Hero Equipment,Barbarian Puppet,6,734,,1120 / - / -,Instant,1
+Hero Equipment,Barbarian Puppet,7,836,,1440 / - / -,Instant,1
+Hero Equipment,Barbarian Puppet,8,940,,1800 / 200 / -,Instant,1
+Hero Equipment,Barbarian Puppet,9,1045,,1900 / - / -,Instant,1
+Hero Equipment,Barbarian Puppet,10,1155,,2000 / - / -,Instant,3
+Hero Equipment,Barbarian Puppet,11,1265,,2100 / 400 / -,Instant,3
+Hero Equipment,Barbarian Puppet,12,1445,,2200 / - / -,Instant,3
+Hero Equipment,Barbarian Puppet,13,1755,,2300 / - / -,Instant,5
+Hero Equipment,Barbarian Puppet,14,2087,,2400 / 600 / -,Instant,5
+Hero Equipment,Barbarian Puppet,15,2444,,2500 / - / -,Instant,5
+Hero Equipment,Barbarian Puppet,16,2703,,2600 / - / -,Instant,7
+Hero Equipment,Barbarian Puppet,17,3093,,2700 / 600 / -,Instant,7
+Hero Equipment,Barbarian Puppet,18,3366,,N/A,Instant,7
+Hero Equipment,Earthquake Boots,1,209,13,120 / - / -,Instant,1
+Hero Equipment,Earthquake Boots,2,244,15,240 / 20 / -,Instant,1
+Hero Equipment,Earthquake Boots,3,278,17,400 / - / -,Instant,1
+Hero Equipment,Earthquake Boots,4,313,19,600 / - / -,Instant,1
+Hero Equipment,Earthquake Boots,5,348,21,840 / 100 / -,Instant,1
+Hero Equipment,Earthquake Boots,6,383,23,1120 / - / -,Instant,1
+Hero Equipment,Earthquake Boots,7,418,26,1440 / - / -,Instant,1
+Hero Equipment,Earthquake Boots,8,452,28,1800 / 200 / -,Instant,1
+Hero Equipment,Earthquake Boots,9,522,32,1900 / - / -,Instant,1
+Hero Equipment,Earthquake Boots,10,677,40,2000 / - / -,Instant,3
+Hero Equipment,Earthquake Boots,11,831,48,2100 / 400 / -,Instant,3
+Hero Equipment,Earthquake Boots,12,986,55,2200 / - / -,Instant,3
+Hero Equipment,Earthquake Boots,13,1200,63,2300 / - / -,Instant,5
+Hero Equipment,Earthquake Boots,14,1500,71,2400 / 600 / -,Instant,5
+Hero Equipment,Earthquake Boots,15,1800,79,2500 / - / -,Instant,5
+Hero Equipment,Earthquake Boots,16,2100,86,2600 / - / -,Instant,7
+Hero Equipment,Earthquake Boots,17,2300,94,2700 / 600 / -,Instant,7
+Hero Equipment,Earthquake Boots,18,2500,102,N/A,Instant,7
+Hero Equipment,Eternal Tome,1,,,120 / - / -,Instant,1
+Hero Equipment,Eternal Tome,2,,,240 / 20 / -,Instant,1
+Hero Equipment,Eternal Tome,3,,,400 / - / -,Instant,1
+Hero Equipment,Eternal Tome,4,,,600 / - / -,Instant,1
+Hero Equipment,Eternal Tome,5,,,840 / 100 / -,Instant,1
+Hero Equipment,Eternal Tome,6,,,1120 / - / -,Instant,1
+Hero Equipment,Eternal Tome,7,,,1440 / - / -,Instant,1
+Hero Equipment,Eternal Tome,8,,,1800 / 200 / -,Instant,1
+Hero Equipment,Eternal Tome,9,,,1900 / - / -,Instant,1
+Hero Equipment,Eternal Tome,10,,,2000 / - / -,Instant,3
+Hero Equipment,Eternal Tome,11,,,2100 / 400 / -,Instant,3
+Hero Equipment,Eternal Tome,12,,,2200 / - / -,Instant,3
+Hero Equipment,Eternal Tome,13,,,2300 / - / -,Instant,5
+Hero Equipment,Eternal Tome,14,,,2400 / 600 / -,Instant,5
+Hero Equipment,Eternal Tome,15,,,2500 / - / -,Instant,5
+Hero Equipment,Eternal Tome,16,,,2600 / - / -,Instant,7
+Hero Equipment,Eternal Tome,17,,,2700 / 600 / -,Instant,7
+Hero Equipment,Eternal Tome,18,,,N/A,Instant,7
+Hero Equipment,Giant Gauntlet,1,,17,120 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,2,,20,240 / 20 / -,Instant,1
+Hero Equipment,Giant Gauntlet,3,,23,400 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,4,,26,600 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,5,,29,840 / 100 / -,Instant,1
+Hero Equipment,Giant Gauntlet,6,,32,1120 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,7,,34,1440 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,8,,37,1800 / 200 / 10,Instant,1
+Hero Equipment,Giant Gauntlet,9,,43,1900 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,10,,53,2000 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,11,,63,2100 / 400 / 20,Instant,1
+Hero Equipment,Giant Gauntlet,12,,74,2200 / - / -,Instant,1
+Hero Equipment,Giant Gauntlet,13,,84,2300 / - / -,Instant,3
+Hero Equipment,Giant Gauntlet,14,,94,2400 / 600 / 30,Instant,3
+Hero Equipment,Giant Gauntlet,15,,104,2500 / - / -,Instant,3
+Hero Equipment,Giant Gauntlet,16,,115,2600 / - / -,Instant,5
+Hero Equipment,Giant Gauntlet,17,,125,2700 / 600 / 50,Instant,5
+Hero Equipment,Giant Gauntlet,18,,135,2800 / - / -,Instant,5
+Hero Equipment,Giant Gauntlet,19,,137,2900 / - / -,Instant,7
+Hero Equipment,Giant Gauntlet,20,,140,3000 / 600 / 100,Instant,7
+Hero Equipment,Giant Gauntlet,21,,142,3100 / - / -,Instant,7
+Hero Equipment,Giant Gauntlet,22,,145,3200 / - / -,Instant,8
+Hero Equipment,Giant Gauntlet,23,,147,3300 / 600 / 120,Instant,8
+Hero Equipment,Giant Gauntlet,24,,150,3400 / - / -,Instant,8
+Hero Equipment,Giant Gauntlet,25,,152,3500 / - / -,Instant,9
+Hero Equipment,Giant Gauntlet,26,,155,3600 / 600 / 150,Instant,9
+Hero Equipment,Giant Gauntlet,27,,160,N/A,Instant,9
+Hero Equipment,Healer Puppet,1,132,,120 / - / -,Instant,5
+Hero Equipment,Healer Puppet,2,154,,240 / 20 / -,Instant,5
+Hero Equipment,Healer Puppet,3,177,,400 / - / -,Instant,5
+Hero Equipment,Healer Puppet,4,199,,600 / - / -,Instant,5
+Hero Equipment,Healer Puppet,5,221,,840 / 100 / -,Instant,5
+Hero Equipment,Healer Puppet,6,243,,1120 / - / -,Instant,5
+Hero Equipment,Healer Puppet,7,265,,1440 / - / -,Instant,5
+Hero Equipment,Healer Puppet,8,287,,1800 / 200 / -,Instant,5
+Hero Equipment,Healer Puppet,9,331,,1900 / - / -,Instant,5
+Hero Equipment,Healer Puppet,10,402,,2000 / - / -,Instant,5
+Hero Equipment,Healer Puppet,11,473,,2100 / 400 / -,Instant,5
+Hero Equipment,Healer Puppet,12,543,,2200 / - / -,Instant,5
+Hero Equipment,Healer Puppet,13,614,,2300 / - / -,Instant,5
+Hero Equipment,Healer Puppet,14,685,,2400 / 600 / -,Instant,5
+Hero Equipment,Healer Puppet,15,756,,2500 / - / -,Instant,5
+Hero Equipment,Healer Puppet,16,826,,2600 / - / -,Instant,7
+Hero Equipment,Healer Puppet,17,897,,2700 / 600 / -,Instant,7
+Hero Equipment,Healer Puppet,18,968,,N/A,Instant,7
+Hero Equipment,Healing Tome,1,92,,120 / - / -,Instant,6
+Hero Equipment,Healing Tome,2,107,,240 / 20 / -,Instant,6
+Hero Equipment,Healing Tome,3,122,,400 / - / -,Instant,6
+Hero Equipment,Healing Tome,4,137,,600 / - / -,Instant,6
+Hero Equipment,Healing Tome,5,153,,840 / 100 / -,Instant,6
+Hero Equipment,Healing Tome,6,168,,1120 / - / -,Instant,6
+Hero Equipment,Healing Tome,7,183,,1440 / - / -,Instant,6
+Hero Equipment,Healing Tome,8,198,,1800 / 200 / -,Instant,6
+Hero Equipment,Healing Tome,9,229,,1900 / - / -,Instant,6
+Hero Equipment,Healing Tome,10,280,,2000 / - / -,Instant,6
+Hero Equipment,Healing Tome,11,330,,2100 / 400 / -,Instant,6
+Hero Equipment,Healing Tome,12,381,,2200 / - / -,Instant,6
+Hero Equipment,Healing Tome,13,432,,2300 / - / -,Instant,6
+Hero Equipment,Healing Tome,14,482,,2400 / 600 / -,Instant,6
+Hero Equipment,Healing Tome,15,533,,2500 / - / -,Instant,6
+Hero Equipment,Healing Tome,16,584,,2600 / - / -,Instant,7
+Hero Equipment,Healing Tome,17,634,,2700 / 600 / -,Instant,7
+Hero Equipment,Healing Tome,18,685,,N/A,Instant,7
+Hero Equipment,Invisibility Vial,1,80,,120 / - / -,Instant,1
+Hero Equipment,Invisibility Vial,2,100,,240 / 20 / -,Instant,1
+Hero Equipment,Invisibility Vial,3,120,,400 / - / -,Instant,1
+Hero Equipment,Invisibility Vial,4,140,,600 / - / -,Instant,1
+Hero Equipment,Invisibility Vial,5,170,,840 / 100 / -,Instant,1
+Hero Equipment,Invisibility Vial,6,200,,1120 / - / -,Instant,1
+Hero Equipment,Invisibility Vial,7,250,,1440 / - / -,Instant,1
+Hero Equipment,Invisibility Vial,8,300,,1800 / 200 / -,Instant,1
+Hero Equipment,Invisibility Vial,9,340,,1900 / - / -,Instant,1
+Hero Equipment,Invisibility Vial,10,380,,2000 / - / -,Instant,3
+Hero Equipment,Invisibility Vial,11,420,,2100 / 400 / -,Instant,3
+Hero Equipment,Invisibility Vial,12,460,,2200 / - / -,Instant,3
+Hero Equipment,Invisibility Vial,13,500,,2300 / - / -,Instant,5
+Hero Equipment,Invisibility Vial,14,540,,2400 / 600 / -,Instant,5
+Hero Equipment,Invisibility Vial,15,580,,2500 / - / -,Instant,5
+Hero Equipment,Invisibility Vial,16,620,,2600 / - / -,Instant,7
+Hero Equipment,Invisibility Vial,17,660,,2700 / 600 / -,Instant,7
+Hero Equipment,Invisibility Vial,18,700,,N/A,Instant,7
+Hero Equipment,Life Gem,1,170,11,120 / - / -,Instant,1
+Hero Equipment,Life Gem,2,184,13,240 / 20 / -,Instant,1
+Hero Equipment,Life Gem,3,195,16,400 / - / -,Instant,1
+Hero Equipment,Life Gem,4,205,19,600 / - / -,Instant,1
+Hero Equipment,Life Gem,5,217,21,840 / 100 / -,Instant,1
+Hero Equipment,Life Gem,6,230,23,1120 / - / -,Instant,1
+Hero Equipment,Life Gem,7,255,25,1440 / - / -,Instant,1
+Hero Equipment,Life Gem,8,282,27,1800 / 200 / -,Instant,1
+Hero Equipment,Life Gem,9,312,32,1900 / - / -,Instant,1
+Hero Equipment,Life Gem,10,344,36,2000 / - / -,Instant,3
+Hero Equipment,Life Gem,11,381,43,2100 / 400 / -,Instant,3
+Hero Equipment,Life Gem,12,398,47,2200 / - / -,Instant,3
+Hero Equipment,Life Gem,13,415,53,2300 / - / -,Instant,5
+Hero Equipment,Life Gem,14,432,57,2400 / 600 / -,Instant,5
+Hero Equipment,Life Gem,15,449,61,2500 / - / -,Instant,5
+Hero Equipment,Life Gem,16,466,66,2600 / - / -,Instant,7
+Hero Equipment,Life Gem,17,483,70,2700 / 600 / -,Instant,7
+Hero Equipment,Life Gem,18,500,75,N/A,Instant,7
+Hero Equipment,Rage Gem,1,,12,120 / - / -,Instant,4
+Hero Equipment,Rage Gem,2,,14,240 / 20 / -,Instant,4
+Hero Equipment,Rage Gem,3,,16,400 / - / -,Instant,4
+Hero Equipment,Rage Gem,4,,18,600 / - / -,Instant,4
+Hero Equipment,Rage Gem,5,,20,840 / 100 / -,Instant,4
+Hero Equipment,Rage Gem,6,,22,1120 / - / -,Instant,4
+Hero Equipment,Rage Gem,7,,24,1440 / - / -,Instant,4
+Hero Equipment,Rage Gem,8,,26,1800 / 200 / -,Instant,4
+Hero Equipment,Rage Gem,9,,30,1900 / - / -,Instant,4
+Hero Equipment,Rage Gem,10,,36,2000 / - / -,Instant,4
+Hero Equipment,Rage Gem,11,,43,2100 / 400 / -,Instant,4
+Hero Equipment,Rage Gem,12,,49,2200 / - / -,Instant,4
+Hero Equipment,Rage Gem,13,,56,2300 / - / -,Instant,5
+Hero Equipment,Rage Gem,14,,62,2400 / 600 / -,Instant,5
+Hero Equipment,Rage Gem,15,,69,2500 / - / -,Instant,5
+Hero Equipment,Rage Gem,16,,75,2600 / - / -,Instant,7
+Hero Equipment,Rage Gem,17,,82,2700 / 600 / -,Instant,7
+Hero Equipment,Rage Gem,18,,88,N/A,Instant,7
+Hero Equipment,Rage Vial,1,,17,120 / - / -,Instant,1
+Hero Equipment,Rage Vial,2,,22,240 / 20 / -,Instant,1
+Hero Equipment,Rage Vial,3,,27,400 / - / -,Instant,1
+Hero Equipment,Rage Vial,4,,32,600 / - / -,Instant,1
+Hero Equipment,Rage Vial,5,,37,840 / 100 / -,Instant,1
+Hero Equipment,Rage Vial,6,,42,1120 / - / -,Instant,1
+Hero Equipment,Rage Vial,7,,48,1440 / - / -,Instant,1
+Hero Equipment,Rage Vial,8,,54,1800 / 200 / -,Instant,1
+Hero Equipment,Rage Vial,9,,60,1900 / - / -,Instant,1
+Hero Equipment,Rage Vial,10,,66,2000 / - / -,Instant,3
+Hero Equipment,Rage Vial,11,,72,2100 / 400 / -,Instant,3
+Hero Equipment,Rage Vial,12,,79,2200 / - / -,Instant,3
+Hero Equipment,Rage Vial,13,,86,2300 / - / -,Instant,5
+Hero Equipment,Rage Vial,14,,94,2400 / 600 / -,Instant,5
+Hero Equipment,Rage Vial,15,,104,2500 / - / -,Instant,5
+Hero Equipment,Rage Vial,16,,112,2600 / - / -,Instant,7
+Hero Equipment,Rage Vial,17,,120,2700 / 600 / -,Instant,7
+Hero Equipment,Rage Vial,18,,128,N/A,Instant,7
+Heroes,Archer Queen,1,3456,795,N/A,N/A,1
+Heroes,Barbarian King,1,12725,678,N/A,N/A,1
+Heroes,Battle Copter,1,3456,193,N/A,N/A,1
+Heroes,Battle Machine,1,5380,290,N/A,N/A,1
+Heroes,Grand Warden,1,2584,339,N/A,N/A,1
+Heroes,Royal Champion,1,4298,575,N/A,N/A,1
+Pets,Angry Jelly,1,2125,193,N/A,N/A,1
+Pets,Diggy,1,5000,150,N/A,N/A,1
+Pets,Electro Owl,1,3000,170,N/A,N/A,1
+Pets,Frosty,1,3800,150,N/A,N/A,1
+Pets,L.A.S.S.I,1,4500,400,N/A,N/A,1
+Pets,Mighty Yak,1,6300,116,N/A,N/A,1
+Pets,Phoenix,1,4200,250,N/A,N/A,1
+Pets,Poison Lizard,1,2300,335,N/A,N/A,1
+Pets,Spirit Fox,1,2800,180,N/A,N/A,1
+Pets,Unicorn,1,2325,,N/A,N/A,1
+Resources,Dark Elixir Drill,1,800,,180000,4h,7
+Resources,Dark Elixir Storage,1,2000,,250000,8h,7
+Resources,Elixir Collector,1,75,,150,5s,1
+Resources,Elixir Storage,1,150,,300,10s,1
+Resources,Gold Mine,1,75,,150,5s,1
+Resources,Gold Storage,1,150,,300,10s,1
+Resources,Sour Elixir Cauldron,1,1000,,N/A,N/A,1
+Traps,Air Bomb,1,,,4000,Instant,1
+Traps,Air Bomb,2,,,20000,30m,5
+Traps,Air Bomb,3,,,75000,1h,7
+Traps,Air Bomb,4,,,300000,4h,9
+Traps,Air Bomb,5,,,550000,8h,11
+Traps,Air Bomb,6,,,800000,12h,12
+Traps,Air Bomb,7,,,1000000,14h,13
+Traps,Air Bomb,8,,,1200000,16h,13
+Traps,Air Bomb,9,,,2000000,1d,14
+Traps,Air Bomb,10,,,3000000,1d 12h,15
+Traps,Air Bomb,11,,,5000000,2d,16
+Traps,Air Bomb,12,,,9500000,3d,17
+Traps,Air Bomb,13,,,15000000,9d,18
+Traps,Bomb,1,,,400,Instant,1
+Traps,Bomb,2,,,1000,1m,3
+Traps,Bomb,3,,,10000,5m,5
+Traps,Bomb,4,,,40000,30m,7
+Traps,Bomb,5,,,100000,1h,8
+Traps,Bomb,6,,,230000,2h,9
+Traps,Bomb,7,,,330000,3h,10
+Traps,Bomb,8,,,500000,4h,11
+Traps,Bomb,9,,,750000,6h,13
+Traps,Bomb,10,,,1300000,12h,14
+Traps,Bomb,11,,,2500000,18h,15
+Traps,Bomb,12,,,4000000,1d,16
+Traps,Bomb,13,,,8500000,2d,17
+Traps,Bomb,14,,,14000000,8d,18
+Traps,Giant Bomb,1,,,12500,Instant,1
+Traps,Giant Bomb,2,,,75000,1h,6
+Traps,Giant Bomb,3,,,220000,3h,8
+Traps,Giant Bomb,4,,,750000,4h,10
+Traps,Giant Bomb,5,,,900000,10h,11
+Traps,Giant Bomb,6,,,1300000,11h,13
+Traps,Giant Bomb,7,,,1500000,12h,13
+Traps,Giant Bomb,8,,,2000000,1d,14
+Traps,Giant Bomb,9,,,3200000,2d,15
+Traps,Giant Bomb,10,,,5500000,2d 12h,16
+Traps,Giant Bomb,11,,,10000000,4d,17
+Traps,Giant Bomb,12,,,17000000,10d 12h,18
+Traps,Seeking Air Mine,1,,,12000,Instant,1
+Traps,Seeking Air Mine,2,,,600000,6h,9
+Traps,Seeking Air Mine,3,,,1200000,12h,10
+Traps,Seeking Air Mine,4,,,2500000,1d 12h,13
+Traps,Seeking Air Mine,5,,,5000000,2d,15
+Traps,Seeking Air Mine,6,,,6500000,3d,16
+Traps,Seeking Air Mine,7,,,12000000,5d,17
+Traps,Seeking Air Mine,8,,,19000000,11d 12h,18
+Traps,Skeleton Trap,1,,,6000,Instant,1
+Traps,Skeleton Trap,2,,,250000,5h,8
+Traps,Skeleton Trap,3,,,400000,8h,9
+Traps,Skeleton Trap,4,,,1000000,12h,10
+Traps,Skeleton Trap,5,,,18000000,7d,18
+Traps,Spring Trap,1,,,2000,Instant,1
+Traps,Spring Trap,2,,,130000,1h,7
+Traps,Spring Trap,3,,,240000,2h,8
+Traps,Spring Trap,4,,,350000,3h,9
+Traps,Spring Trap,5,,,800000,4h,10
+Traps,Spring Trap,6,,,1000000,6h,11
+Traps,Spring Trap,7,,,1700000,8h,12
+Traps,Spring Trap,8,,,2000000,12h,13
+Traps,Spring Trap,9,,,3000000,18h,14
+Traps,Spring Trap,10,,,4000000,1d,15
+Traps,Spring Trap,11,,,6000000,2d,16
+Traps,Spring Trap,12,,,13000000,3d,17
+Traps,Spring Trap,13,,,16000000,11d,18
+Traps,Tornado Trap,1,,,1000000,Instant,11
+Traps,Tornado Trap,2,,,2000000,1d,11
+Traps,Tornado Trap,3,,,2500000,2d,12
+Troops,Apprentice Warden,1,1950,215,N/A,N/A,1
+Troops,Archer,1,76,46,N/A,N/A,1
+Troops,Baby Dragon,1,2350,185,N/A,N/A,1
+Troops,Balloon,1,1360,326,N/A,N/A,1
+Troops,Barbarian,1,310,51,N/A,N/A,1
+Troops,Bowler,1,860,160,N/A,N/A,1
+Troops,Dragon,1,6000,430,N/A,N/A,1
+Troops,Dragon Rider,1,6000,510,N/A,N/A,1
+Troops,Druid,1,1850,,N/A,N/A,1
+Troops,Electro Dragon,1,6700,500,N/A,N/A,1
+Troops,Electro Titan,1,9200,270,N/A,N/A,1
+Troops,Giant,1,3000,114,N/A,N/A,1
+Troops,Goblin,1,166,82,N/A,N/A,1
+Troops,Golem,1,10600,120,N/A,N/A,1
+Troops,Headhunter,1,500,135,N/A,N/A,1
+Troops,Healer,1,2100,,N/A,N/A,1
+Troops,Hog Rider,1,1750,250,N/A,N/A,1
+Troops,Ice Golem,1,4350,56,N/A,N/A,1
+Troops,Lava Hound,1,9500,24,N/A,N/A,1
+Troops,Miner,1,2050,195,N/A,N/A,1
+Troops,Minion,1,140,92,N/A,N/A,1
+Troops,PEKKA,1,8800,940,N/A,N/A,1
+Troops,Root Rider,1,6700,125,N/A,N/A,1
+Troops,Valkyrie,1,2900,255,N/A,N/A,1
+Troops,Wall Breaker,1,170,126,N/A,N/A,1
+Troops,Witch,1,650,260,N/A,N/A,1
+Troops,Wizard,1,330,310,N/A,N/A,1
+Troops,Yeti,1,4650,380,N/A,N/A,1
