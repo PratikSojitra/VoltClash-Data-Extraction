@@ -1,13 +1,18 @@
 # Graph Report - coc-data  (2026-06-01)
 
 ## Corpus Check
-- 11 files · ~102,769 words
+- 13 files · ~114,326 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 323 nodes · 459 edges · 48 communities (44 shown, 4 thin omitted)
+- 341 nodes · 487 edges · 51 communities (47 shown, 4 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
+
+## Graph Freshness
+- Built from commit: `44e46f5b`
+- Run `git rev-parse HEAD` and compare to check if the graph is stale.
+- Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - [[_COMMUNITY_Community 0|Community 0]]
@@ -58,6 +63,7 @@
 - [[_COMMUNITY_Community 45|Community 45]]
 - [[_COMMUNITY_Community 46|Community 46]]
 - [[_COMMUNITY_Community 47|Community 47]]
+- [[_COMMUNITY_Community 50|Community 50]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `levels` - 23 edges
@@ -68,8 +74,8 @@
 6. `levels` - 19 edges
 7. `levels` - 17 edges
 8. `levels` - 17 edges
-9. `1` - 10 edges
-10. `2` - 10 edges
+9. `main()` - 12 edges
+10. `1` - 10 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `main()` --calls--> `scrape_defense()`  [EXTRACTED]
@@ -84,19 +90,19 @@
 ## Import Cycles
 - None detected.
 
-## Communities (48 total, 4 thin omitted)
+## Communities (51 total, 4 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.29
-Nodes (6): defenses, Archer Tower, Cannon, Mortar, last_updated, levels
+Nodes (6): defenses, Air Defense, Archer Tower, Cannon, Mortar, last_updated
 
 ### Community 1 - "Community 1"
-Cohesion: 0.29
-Nodes (7): cost, dps, hitpoints, required_th, time, levels, 19
+Cohesion: 0.15
+Nodes (12): cost, dps, hitpoints, required_th, time, cost, dps, hitpoints (+4 more)
 
 ### Community 2 - "Community 2"
-Cohesion: 0.36
-Nodes (7): main(), _fetch_html(), _get_page_name(), scrape_defense(), detect_changes(), load_json(), save_json()
+Cohesion: 0.14
+Nodes (23): decompress_sc_csv(), extract_buildings(), extract_characters(), extract_heroes(), extract_pets(), extract_traps(), main(), make_time_str() (+15 more)
 
 ### Community 3 - "Community 3"
 Cohesion: 0.33
@@ -107,36 +113,36 @@ Cohesion: 0.33
 Nodes (6): cost, dps, hitpoints, required_th, time, 14
 
 ### Community 5 - "Community 5"
-Cohesion: 0.15
-Nodes (12): cost, dps, hitpoints, required_th, time, cost, dps, hitpoints (+4 more)
+Cohesion: 0.33
+Nodes (6): cost, dps, hitpoints, required_th, time, 10
 
 ### Community 6 - "Community 6"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 12
+Cohesion: 0.29
+Nodes (7): cost, dps, hitpoints, required_th, time, levels, 12
 
 ### Community 7 - "Community 7"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 15
+Cohesion: 0.29
+Nodes (7): cost, dps, hitpoints, required_th, time, levels, 15
 
 ### Community 8 - "Community 8"
-Cohesion: 0.15
-Nodes (12): cost, dps, hitpoints, required_th, time, cost, dps, hitpoints (+4 more)
+Cohesion: 0.33
+Nodes (6): cost, dps, hitpoints, required_th, time, 16
 
 ### Community 9 - "Community 9"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 17
+Cohesion: 0.29
+Nodes (7): cost, dps, hitpoints, required_th, time, levels, 17
 
 ### Community 10 - "Community 10"
 Cohesion: 0.16
 Nodes (19): decompress_sc_csv(), extract_buildings(), extract_characters(), extract_equipment(), extract_heroes(), extract_pets(), extract_traps(), main() (+11 more)
 
 ### Community 11 - "Community 11"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 3
+Cohesion: 0.25
+Nodes (8): cost, dps, hitpoints, required_th, time, Wizard Tower, 3, levels
 
 ### Community 12 - "Community 12"
-Cohesion: 0.25
-Nodes (8): cost, dps, hitpoints, required_th, time, Wizard Tower, 1, levels
+Cohesion: 0.33
+Nodes (6): cost, dps, hitpoints, required_th, time, 1
 
 ### Community 13 - "Community 13"
 Cohesion: 0.33
@@ -155,44 +161,44 @@ Cohesion: 0.33
 Nodes (6): cost, dps, hitpoints, required_th, time, 8
 
 ### Community 17 - "Community 17"
-Cohesion: 0.25
-Nodes (8): cost, dps, hitpoints, required_th, time, levels, Air Defense, 9
+Cohesion: 0.33
+Nodes (6): cost, dps, hitpoints, required_th, time, 9
 
 ### Community 19 - "Community 19"
 Cohesion: 0.33
 Nodes (6): cost, dps, hitpoints, required_th, time, 2
 
 ### Community 23 - "Community 23"
+Cohesion: 0.29
+Nodes (7): cost, dps, hitpoints, required_th, time, levels, 14
+
+### Community 24 - "Community 24"
+Cohesion: 0.33
+Nodes (6): cost, dps, hitpoints, required_th, time, 2
+
+### Community 25 - "Community 25"
+Cohesion: 0.33
+Nodes (6): cost, dps, hitpoints, required_th, time, 7
+
+### Community 26 - "Community 26"
+Cohesion: 0.25
+Nodes (8): cost, dps, hitpoints, required_th, time, levels, Air Defense, 10
+
+### Community 27 - "Community 27"
 Cohesion: 0.15
 Nodes (12): cost, dps, hitpoints, required_th, time, cost, dps, hitpoints (+4 more)
 
-### Community 24 - "Community 24"
-Cohesion: 0.25
-Nodes (8): cost, dps, hitpoints, required_th, time, Wizard Tower, 2, levels
-
-### Community 25 - "Community 25"
-Cohesion: 0.25
-Nodes (8): cost, dps, hitpoints, required_th, time, Mortar, 7, levels
-
-### Community 26 - "Community 26"
-Cohesion: 0.29
-Nodes (7): cost, dps, hitpoints, required_th, time, levels, 10
-
-### Community 27 - "Community 27"
-Cohesion: 0.29
-Nodes (7): cost, dps, hitpoints, required_th, time, levels, 11
-
 ### Community 28 - "Community 28"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, time, levels, 0
+Cohesion: 0.40
+Nodes (5): cost, dps, hitpoints, time, 0
 
 ### Community 29 - "Community 29"
 Cohesion: 0.33
 Nodes (6): cost, dps, hitpoints, required_th, time, 13
 
 ### Community 30 - "Community 30"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 18
+Cohesion: 0.29
+Nodes (7): cost, dps, hitpoints, required_th, time, 18, levels
 
 ### Community 31 - "Community 31"
 Cohesion: 0.33
@@ -200,7 +206,7 @@ Nodes (6): cost, dps, hitpoints, required_th, time, 5
 
 ### Community 32 - "Community 32"
 Cohesion: 0.33
-Nodes (5): levels, defenses, Air Defense, Archer Tower, Cannon
+Nodes (5): defenses, Archer Tower, Cannon, Mortar, levels
 
 ### Community 33 - "Community 33"
 Cohesion: 0.33
@@ -227,12 +233,12 @@ Cohesion: 0.33
 Nodes (6): cost, dps, hitpoints, required_th, time, 18
 
 ### Community 39 - "Community 39"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 19
+Cohesion: 0.29
+Nodes (7): cost, dps, hitpoints, required_th, time, levels, 19
 
 ### Community 40 - "Community 40"
-Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 1
+Cohesion: 0.25
+Nodes (8): cost, dps, hitpoints, required_th, time, Wizard Tower, 1, levels
 
 ### Community 41 - "Community 41"
 Cohesion: 0.33
@@ -260,7 +266,11 @@ Nodes (6): cost, dps, hitpoints, required_th, time, 6
 
 ### Community 47 - "Community 47"
 Cohesion: 0.33
-Nodes (6): cost, dps, hitpoints, required_th, time, 8
+Nodes (6): cost, dps, hitpoints, required_th, time, 21
+
+### Community 50 - "Community 50"
+Cohesion: 0.33
+Nodes (6): cost, dps, hitpoints, required_th, time, 9
 
 ## Knowledge Gaps
 - **218 isolated node(s):** `BeforeTool`, `hitpoints`, `dps`, `cost`, `time` (+213 more)
@@ -270,11 +280,13 @@ Nodes (6): cost, dps, hitpoints, required_th, time, 8
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `levels` connect `Community 28` to `Community 0`, `Community 1`, `Community 3`, `Community 4`, `Community 5`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 11`, `Community 12`, `Community 13`, `Community 14`, `Community 15`, `Community 16`, `Community 17`, `Community 19`, `Community 29`, `Community 30`, `Community 31`?**
-  _High betweenness centrality (0.068) - this node is a cross-community bridge._
-- **Why does `levels` connect `Community 1` to `Community 0`, `Community 3`, `Community 4`, `Community 5`, `Community 6`, `Community 7`, `Community 8`, `Community 9`, `Community 11`, `Community 12`, `Community 13`, `Community 14`, `Community 15`, `Community 16`, `Community 17`, `Community 19`, `Community 29`, `Community 30`, `Community 31`?**
-  _High betweenness centrality (0.054) - this node is a cross-community bridge._
-- **Why does `levels` connect `Community 27` to `Community 23`, `Community 24`, `Community 25`, `Community 26`, `Community 32`, `Community 33`, `Community 34`, `Community 35`, `Community 36`, `Community 37`, `Community 38`, `Community 39`, `Community 40`, `Community 41`, `Community 42`, `Community 43`, `Community 44`, `Community 45`, `Community 46`, `Community 47`?**
-  _High betweenness centrality (0.054) - this node is a cross-community bridge._
+- **Why does `levels` connect `Community 6` to `Community 0`, `Community 1`, `Community 3`, `Community 4`, `Community 5`, `Community 7`, `Community 8`, `Community 9`, `Community 11`, `Community 12`, `Community 13`, `Community 14`, `Community 15`, `Community 16`, `Community 17`, `Community 19`, `Community 28`, `Community 29`, `Community 30`, `Community 31`, `Community 47`?**
+  _High betweenness centrality (0.061) - this node is a cross-community bridge._
+- **Why does `levels` connect `Community 9` to `Community 0`, `Community 1`, `Community 3`, `Community 4`, `Community 5`, `Community 6`, `Community 7`, `Community 8`, `Community 11`, `Community 12`, `Community 13`, `Community 14`, `Community 15`, `Community 16`, `Community 17`, `Community 19`, `Community 29`, `Community 30`, `Community 31`, `Community 47`?**
+  _High betweenness centrality (0.049) - this node is a cross-community bridge._
+- **Why does `levels` connect `Community 39` to `Community 23`, `Community 24`, `Community 25`, `Community 26`, `Community 27`, `Community 32`, `Community 33`, `Community 34`, `Community 35`, `Community 36`, `Community 37`, `Community 38`, `Community 40`, `Community 41`, `Community 42`, `Community 43`, `Community 44`, `Community 45`, `Community 46`, `Community 50`?**
+  _High betweenness centrality (0.048) - this node is a cross-community bridge._
 - **What connects `BeforeTool`, `Decompresses a Supercell signed LZMA file.     - Strips the 68-byte cryptographi`, `Formats upgrade days, hours, minutes, and seconds into a clean human string.` to the rest of the system?**
-  _228 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _236 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `Community 2` be split into smaller, more focused modules?**
+  _Cohesion score 0.13675213675213677 - nodes in this community are weakly interconnected._

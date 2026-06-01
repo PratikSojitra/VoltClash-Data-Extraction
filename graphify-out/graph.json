@@ -243,7 +243,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L4",
       "id": "output_defenses_cannon_levels",
-      "community": 27,
+      "community": 39,
       "norm_label": "levels"
     },
     {
@@ -630,7 +630,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L54",
       "id": "output_defenses_levels_8",
-      "community": 47,
+      "community": 27,
       "norm_label": "8"
     },
     {
@@ -639,7 +639,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L55",
       "id": "output_defenses_8_hitpoints",
-      "community": 47,
+      "community": 27,
       "norm_label": "hitpoints"
     },
     {
@@ -648,7 +648,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L56",
       "id": "output_defenses_8_dps",
-      "community": 47,
+      "community": 27,
       "norm_label": "dps"
     },
     {
@@ -657,7 +657,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L57",
       "id": "output_defenses_8_cost",
-      "community": 47,
+      "community": 27,
       "norm_label": "cost"
     },
     {
@@ -666,7 +666,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L58",
       "id": "output_defenses_8_time",
-      "community": 47,
+      "community": 27,
       "norm_label": "time"
     },
     {
@@ -675,7 +675,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L59",
       "id": "output_defenses_8_required_th",
-      "community": 47,
+      "community": 27,
       "norm_label": "required_th"
     },
     {
@@ -684,7 +684,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L61",
       "id": "output_defenses_levels_9",
-      "community": 23,
+      "community": 50,
       "norm_label": "9"
     },
     {
@@ -693,7 +693,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L62",
       "id": "output_defenses_9_hitpoints",
-      "community": 23,
+      "community": 50,
       "norm_label": "hitpoints"
     },
     {
@@ -702,7 +702,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L63",
       "id": "output_defenses_9_dps",
-      "community": 23,
+      "community": 50,
       "norm_label": "dps"
     },
     {
@@ -711,7 +711,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L64",
       "id": "output_defenses_9_cost",
-      "community": 23,
+      "community": 50,
       "norm_label": "cost"
     },
     {
@@ -720,7 +720,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L65",
       "id": "output_defenses_9_time",
-      "community": 23,
+      "community": 50,
       "norm_label": "time"
     },
     {
@@ -729,7 +729,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L66",
       "id": "output_defenses_9_required_th",
-      "community": 23,
+      "community": 50,
       "norm_label": "required_th"
     },
     {
@@ -1395,7 +1395,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L155",
       "id": "output_defenses_archer_tower_levels",
-      "community": 26,
+      "community": 23,
       "norm_label": "levels"
     },
     {
@@ -1404,7 +1404,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L305",
       "id": "output_defenses_defenses_mortar",
-      "community": 25,
+      "community": 32,
       "norm_label": "mortar"
     },
     {
@@ -1413,7 +1413,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L306",
       "id": "output_defenses_mortar_levels",
-      "community": 25,
+      "community": 32,
       "norm_label": "levels"
     },
     {
@@ -1422,7 +1422,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L435",
       "id": "output_defenses_defenses_air_defense",
-      "community": 32,
+      "community": 26,
       "norm_label": "air defense"
     },
     {
@@ -1431,7 +1431,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L436",
       "id": "output_defenses_air_defense_levels",
-      "community": 32,
+      "community": 26,
       "norm_label": "levels"
     },
     {
@@ -1440,7 +1440,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L551",
       "id": "output_defenses_defenses_wizard_tower",
-      "community": 24,
+      "community": 40,
       "norm_label": "wizard tower"
     },
     {
@@ -1449,7 +1449,7 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L552",
       "id": "output_defenses_wizard_tower_levels",
-      "community": 24,
+      "community": 40,
       "norm_label": "levels"
     },
     {
@@ -1512,7 +1512,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L5",
       "id": "data_defenses_cannon_levels",
-      "community": 1,
+      "community": 9,
       "norm_label": "levels"
     },
     {
@@ -2547,7 +2547,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L139",
       "id": "data_defenses_levels_20",
-      "community": 5,
+      "community": 1,
       "norm_label": "20"
     },
     {
@@ -2556,7 +2556,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L140",
       "id": "data_defenses_20_hitpoints",
-      "community": 5,
+      "community": 1,
       "norm_label": "hitpoints"
     },
     {
@@ -2565,7 +2565,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L141",
       "id": "data_defenses_20_dps",
-      "community": 5,
+      "community": 1,
       "norm_label": "dps"
     },
     {
@@ -2574,7 +2574,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L142",
       "id": "data_defenses_20_cost",
-      "community": 5,
+      "community": 1,
       "norm_label": "cost"
     },
     {
@@ -2583,7 +2583,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L143",
       "id": "data_defenses_20_time",
-      "community": 5,
+      "community": 1,
       "norm_label": "time"
     },
     {
@@ -2592,7 +2592,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L144",
       "id": "data_defenses_20_required_th",
-      "community": 5,
+      "community": 1,
       "norm_label": "required_th"
     },
     {
@@ -2601,7 +2601,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L146",
       "id": "data_defenses_levels_21",
-      "community": 8,
+      "community": 47,
       "norm_label": "21"
     },
     {
@@ -2610,7 +2610,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L147",
       "id": "data_defenses_21_hitpoints",
-      "community": 8,
+      "community": 47,
       "norm_label": "hitpoints"
     },
     {
@@ -2619,7 +2619,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L148",
       "id": "data_defenses_21_dps",
-      "community": 8,
+      "community": 47,
       "norm_label": "dps"
     },
     {
@@ -2628,7 +2628,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L149",
       "id": "data_defenses_21_cost",
-      "community": 8,
+      "community": 47,
       "norm_label": "cost"
     },
     {
@@ -2637,7 +2637,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L150",
       "id": "data_defenses_21_time",
-      "community": 8,
+      "community": 47,
       "norm_label": "time"
     },
     {
@@ -2646,7 +2646,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L151",
       "id": "data_defenses_21_required_th",
-      "community": 8,
+      "community": 47,
       "norm_label": "required_th"
     },
     {
@@ -2664,7 +2664,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L156",
       "id": "data_defenses_archer_tower_levels",
-      "community": 28,
+      "community": 6,
       "norm_label": "levels"
     },
     {
@@ -2682,7 +2682,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L307",
       "id": "data_defenses_mortar_levels",
-      "community": 0,
+      "community": 30,
       "norm_label": "levels"
     },
     {
@@ -2691,7 +2691,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L436",
       "id": "data_defenses_defenses_air_defense",
-      "community": 17,
+      "community": 0,
       "norm_label": "air defense"
     },
     {
@@ -2700,7 +2700,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L437",
       "id": "data_defenses_air_defense_levels",
-      "community": 17,
+      "community": 7,
       "norm_label": "levels"
     },
     {
@@ -2709,7 +2709,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L552",
       "id": "data_defenses_defenses_wizard_tower",
-      "community": 12,
+      "community": 11,
       "norm_label": "wizard tower"
     },
     {
@@ -2718,7 +2718,7 @@
       "source_file": "data/defenses.json",
       "source_location": "L553",
       "id": "data_defenses_wizard_tower_levels",
-      "community": 12,
+      "community": 11,
       "norm_label": "levels"
     },
     {
@@ -2749,6 +2749,15 @@
       "norm_label": "reads a nested clash of clans buildings json file and flattens it     into a cle"
     },
     {
+      "label": "pandas_coc_dataframe.py",
+      "file_type": "code",
+      "source_file": "pandas_coc_dataframe.py",
+      "source_location": "L1",
+      "id": "pandas_coc_dataframe",
+      "community": 48,
+      "norm_label": "pandas_coc_dataframe.py"
+    },
+    {
       "label": "run.py",
       "file_type": "code",
       "source_file": "run.py",
@@ -2758,13 +2767,157 @@
       "norm_label": "run.py"
     },
     {
+      "label": "decompress_sc_csv()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L43",
+      "id": "run_decompress_sc_csv",
+      "community": 2,
+      "norm_label": "decompress_sc_csv()"
+    },
+    {
+      "label": "make_time_str()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L61",
+      "id": "run_make_time_str",
+      "community": 2,
+      "norm_label": "make_time_str()"
+    },
+    {
+      "label": "parse_raw_csv()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L71",
+      "id": "run_parse_raw_csv",
+      "community": 2,
+      "norm_label": "parse_raw_csv()"
+    },
+    {
+      "label": "extract_buildings()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L114",
+      "id": "run_extract_buildings",
+      "community": 2,
+      "norm_label": "extract_buildings()"
+    },
+    {
+      "label": "extract_characters()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L177",
+      "id": "run_extract_characters",
+      "community": 2,
+      "norm_label": "extract_characters()"
+    },
+    {
+      "label": "extract_heroes()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L239",
+      "id": "run_extract_heroes",
+      "community": 2,
+      "norm_label": "extract_heroes()"
+    },
+    {
+      "label": "extract_pets()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L289",
+      "id": "run_extract_pets",
+      "community": 2,
+      "norm_label": "extract_pets()"
+    },
+    {
+      "label": "extract_traps()",
+      "file_type": "code",
+      "source_file": "run.py",
+      "source_location": "L339",
+      "id": "run_extract_traps",
+      "community": 2,
+      "norm_label": "extract_traps()"
+    },
+    {
       "label": "main()",
       "file_type": "code",
       "source_file": "run.py",
-      "source_location": "L147",
+      "source_location": "L390",
       "id": "run_main",
       "community": 2,
       "norm_label": "main()"
+    },
+    {
+      "label": "Decompresses a Supercell signed LZMA file.     - Strips the 68-byte cryptographi",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L44",
+      "id": "run_rationale_44",
+      "community": 2,
+      "norm_label": "decompresses a supercell signed lzma file.     - strips the 68-byte cryptographi"
+    },
+    {
+      "label": "Formats upgrade days, hours, minutes, and seconds into a clean human string.",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L62",
+      "id": "run_rationale_62",
+      "community": 2,
+      "norm_label": "formats upgrade days, hours, minutes, and seconds into a clean human string."
+    },
+    {
+      "label": "Parses a Supercell logic CSV.     - Dynamically flattens column headers using th",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L72",
+      "id": "run_rationale_72",
+      "community": 2,
+      "norm_label": "parses a supercell logic csv.     - dynamically flattens column headers using th"
+    },
+    {
+      "label": "Parses buildings.csv into defenses, resources, army, and builder_base.",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L115",
+      "id": "run_rationale_115",
+      "community": 2,
+      "norm_label": "parses buildings.csv into defenses, resources, army, and builder_base."
+    },
+    {
+      "label": "Parses characters.csv into troops and builder_base_troops.",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L178",
+      "id": "run_rationale_178",
+      "community": 2,
+      "norm_label": "parses characters.csv into troops and builder_base_troops."
+    },
+    {
+      "label": "Parses heroes.csv into heroes.",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L240",
+      "id": "run_rationale_240",
+      "community": 2,
+      "norm_label": "parses heroes.csv into heroes."
+    },
+    {
+      "label": "Parses pets.csv into pets.",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L290",
+      "id": "run_rationale_290",
+      "community": 2,
+      "norm_label": "parses pets.csv into pets."
+    },
+    {
+      "label": "Parses traps.csv into traps and builder_base_traps.",
+      "file_type": "rationale",
+      "source_file": "run.py",
+      "source_location": "L340",
+      "id": "run_rationale_340",
+      "community": 2,
+      "norm_label": "parses traps.csv into traps and builder_base_traps."
     },
     {
       "label": "update_defenses.py",
@@ -2866,6 +3019,15 @@
       "norm_label": "graphify"
     },
     {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme",
+      "community": 49,
+      "norm_label": "readme.md"
+    },
+    {
       "label": "0",
       "file_type": "code",
       "source_file": "data/defenses.json",
@@ -2938,9 +3100,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L40",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_decompress_sc_csv",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_decompress_sc_csv"
     },
     {
       "relation": "contains",
@@ -2948,9 +3110,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L116",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_extract_buildings",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_buildings"
     },
     {
       "relation": "contains",
@@ -2958,9 +3120,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L198",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_extract_characters",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_characters"
     },
     {
       "relation": "contains",
@@ -2968,9 +3130,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L432",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_extract_equipment",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_equipment"
     },
     {
       "relation": "contains",
@@ -2978,9 +3140,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L269",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_extract_heroes",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_heroes"
     },
     {
       "relation": "contains",
@@ -2988,9 +3150,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L324",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_extract_pets",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_pets"
     },
     {
       "relation": "contains",
@@ -2998,9 +3160,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L377",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_extract_traps",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_traps"
     },
     {
       "relation": "contains",
@@ -3008,9 +3170,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L487",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_main",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_main"
     },
     {
       "relation": "contains",
@@ -3018,9 +3180,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L58",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_make_time_str",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_make_time_str"
     },
     {
       "relation": "contains",
@@ -3028,9 +3190,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor",
-      "target": "coc_data_extraction_apk_extractor_parse_raw_csv",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_parse_raw_csv"
     },
     {
       "relation": "calls",
@@ -3039,9 +3201,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L511",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_main",
-      "target": "coc_data_extraction_apk_extractor_decompress_sc_csv",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_decompress_sc_csv"
     },
     {
       "relation": "rationale_for",
@@ -3049,9 +3211,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L41",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_41",
-      "target": "coc_data_extraction_apk_extractor_decompress_sc_csv",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_decompress_sc_csv"
     },
     {
       "relation": "calls",
@@ -3060,9 +3222,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L156",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_extract_buildings",
-      "target": "coc_data_extraction_apk_extractor_make_time_str",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_make_time_str"
     },
     {
       "relation": "calls",
@@ -3071,9 +3233,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L240",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_extract_characters",
-      "target": "coc_data_extraction_apk_extractor_make_time_str",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_make_time_str"
     },
     {
       "relation": "calls",
@@ -3082,9 +3244,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L297",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_extract_heroes",
-      "target": "coc_data_extraction_apk_extractor_make_time_str",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_make_time_str"
     },
     {
       "relation": "calls",
@@ -3093,9 +3255,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L350",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_extract_pets",
-      "target": "coc_data_extraction_apk_extractor_make_time_str",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_make_time_str"
     },
     {
       "relation": "calls",
@@ -3104,9 +3266,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L411",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_extract_traps",
-      "target": "coc_data_extraction_apk_extractor_make_time_str",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_make_time_str"
     },
     {
       "relation": "rationale_for",
@@ -3114,9 +3276,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L59",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_59",
-      "target": "coc_data_extraction_apk_extractor_make_time_str",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_make_time_str"
     },
     {
       "relation": "calls",
@@ -3125,9 +3287,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L522",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_main",
-      "target": "coc_data_extraction_apk_extractor_parse_raw_csv",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_parse_raw_csv"
     },
     {
       "relation": "rationale_for",
@@ -3135,9 +3297,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L69",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_69",
-      "target": "coc_data_extraction_apk_extractor_parse_raw_csv",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_parse_raw_csv"
     },
     {
       "relation": "calls",
@@ -3146,9 +3308,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L523",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_main",
-      "target": "coc_data_extraction_apk_extractor_extract_buildings",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_buildings"
     },
     {
       "relation": "rationale_for",
@@ -3156,9 +3318,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L117",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_117",
-      "target": "coc_data_extraction_apk_extractor_extract_buildings",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_buildings"
     },
     {
       "relation": "calls",
@@ -3167,9 +3329,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L529",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_main",
-      "target": "coc_data_extraction_apk_extractor_extract_characters",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_characters"
     },
     {
       "relation": "rationale_for",
@@ -3177,9 +3339,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L199",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_199",
-      "target": "coc_data_extraction_apk_extractor_extract_characters",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_characters"
     },
     {
       "relation": "calls",
@@ -3188,9 +3350,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L535",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_main",
-      "target": "coc_data_extraction_apk_extractor_extract_heroes",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_heroes"
     },
     {
       "relation": "rationale_for",
@@ -3198,9 +3360,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L270",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_270",
-      "target": "coc_data_extraction_apk_extractor_extract_heroes",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_heroes"
     },
     {
       "relation": "calls",
@@ -3209,9 +3371,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L541",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_main",
-      "target": "coc_data_extraction_apk_extractor_extract_pets",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_pets"
     },
     {
       "relation": "rationale_for",
@@ -3219,9 +3381,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L325",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_325",
-      "target": "coc_data_extraction_apk_extractor_extract_pets",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_pets"
     },
     {
       "relation": "calls",
@@ -3230,9 +3392,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L547",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_main",
-      "target": "coc_data_extraction_apk_extractor_extract_traps",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_traps"
     },
     {
       "relation": "rationale_for",
@@ -3240,9 +3402,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L378",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_378",
-      "target": "coc_data_extraction_apk_extractor_extract_traps",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_traps"
     },
     {
       "relation": "rationale_for",
@@ -3250,9 +3412,9 @@
       "source_file": "coc-data-extraction-apk/extractor.py",
       "source_location": "L433",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "coc_data_extraction_apk_extractor_rationale_433",
-      "target": "coc_data_extraction_apk_extractor_extract_equipment",
-      "confidence_score": 1.0
+      "target": "coc_data_extraction_apk_extractor_extract_equipment"
     },
     {
       "relation": "contains",
@@ -3260,9 +3422,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses",
-      "target": "output_defenses_defenses",
-      "confidence_score": 1.0
+      "target": "output_defenses_defenses"
     },
     {
       "relation": "contains",
@@ -3270,9 +3432,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L435",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses",
-      "target": "output_defenses_defenses_air_defense",
-      "confidence_score": 1.0
+      "target": "output_defenses_defenses_air_defense"
     },
     {
       "relation": "contains",
@@ -3280,9 +3442,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L154",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses",
-      "target": "output_defenses_defenses_archer_tower",
-      "confidence_score": 1.0
+      "target": "output_defenses_defenses_archer_tower"
     },
     {
       "relation": "contains",
@@ -3290,9 +3452,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses",
-      "target": "output_defenses_defenses_cannon",
-      "confidence_score": 1.0
+      "target": "output_defenses_defenses_cannon"
     },
     {
       "relation": "contains",
@@ -3300,9 +3462,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L305",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses",
-      "target": "output_defenses_defenses_mortar",
-      "confidence_score": 1.0
+      "target": "output_defenses_defenses_mortar"
     },
     {
       "relation": "contains",
@@ -3310,9 +3472,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L551",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses",
-      "target": "output_defenses_defenses_wizard_tower",
-      "confidence_score": 1.0
+      "target": "output_defenses_defenses_wizard_tower"
     },
     {
       "relation": "contains",
@@ -3320,9 +3482,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses_cannon",
-      "target": "output_defenses_cannon_levels",
-      "confidence_score": 1.0
+      "target": "output_defenses_cannon_levels"
     },
     {
       "relation": "contains",
@@ -3330,9 +3492,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_1",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_1"
     },
     {
       "relation": "contains",
@@ -3340,9 +3502,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L68",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_10",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_10"
     },
     {
       "relation": "contains",
@@ -3350,9 +3512,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L75",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_11",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_11"
     },
     {
       "relation": "contains",
@@ -3360,9 +3522,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L82",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_12",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_12"
     },
     {
       "relation": "contains",
@@ -3370,9 +3532,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L89",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_13",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_13"
     },
     {
       "relation": "contains",
@@ -3380,9 +3542,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L96",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_14",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_14"
     },
     {
       "relation": "contains",
@@ -3390,9 +3552,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L103",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_15",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_15"
     },
     {
       "relation": "contains",
@@ -3400,9 +3562,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L110",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_16",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_16"
     },
     {
       "relation": "contains",
@@ -3410,9 +3572,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L117",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_17",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_17"
     },
     {
       "relation": "contains",
@@ -3420,9 +3582,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L124",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_18",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_18"
     },
     {
       "relation": "contains",
@@ -3430,9 +3592,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L131",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_19",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_19"
     },
     {
       "relation": "contains",
@@ -3440,9 +3602,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_2",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_2"
     },
     {
       "relation": "contains",
@@ -3450,9 +3612,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L138",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_20",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_20"
     },
     {
       "relation": "contains",
@@ -3460,9 +3622,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L145",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_21",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_21"
     },
     {
       "relation": "contains",
@@ -3470,9 +3632,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_3",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_3"
     },
     {
       "relation": "contains",
@@ -3480,9 +3642,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_4",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_4"
     },
     {
       "relation": "contains",
@@ -3490,9 +3652,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L33",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_5",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_5"
     },
     {
       "relation": "contains",
@@ -3500,9 +3662,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L40",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_6",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_6"
     },
     {
       "relation": "contains",
@@ -3510,9 +3672,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L47",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_7",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_7"
     },
     {
       "relation": "contains",
@@ -3520,9 +3682,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_8",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_8"
     },
     {
       "relation": "contains",
@@ -3530,9 +3692,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L61",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_cannon_levels",
-      "target": "output_defenses_levels_9",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_9"
     },
     {
       "relation": "contains",
@@ -3540,9 +3702,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L437",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_1",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_1"
     },
     {
       "relation": "contains",
@@ -3550,9 +3712,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L156",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_1",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_1"
     },
     {
       "relation": "contains",
@@ -3560,9 +3722,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L556",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_1",
-      "target": "output_defenses_1_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_1_cost"
     },
     {
       "relation": "contains",
@@ -3570,9 +3732,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L555",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_1",
-      "target": "output_defenses_1_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_1_dps"
     },
     {
       "relation": "contains",
@@ -3580,9 +3742,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L554",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_1",
-      "target": "output_defenses_1_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_1_hitpoints"
     },
     {
       "relation": "contains",
@@ -3590,9 +3752,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L558",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_1",
-      "target": "output_defenses_1_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_1_required_th"
     },
     {
       "relation": "contains",
@@ -3600,9 +3762,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L557",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_1",
-      "target": "output_defenses_1_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_1_time"
     },
     {
       "relation": "contains",
@@ -3610,9 +3772,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L307",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_1",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_1"
     },
     {
       "relation": "contains",
@@ -3620,9 +3782,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L553",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_wizard_tower_levels",
-      "target": "output_defenses_levels_1",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_1"
     },
     {
       "relation": "contains",
@@ -3630,9 +3792,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L444",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_2",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_2"
     },
     {
       "relation": "contains",
@@ -3640,9 +3802,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L163",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_2",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_2"
     },
     {
       "relation": "contains",
@@ -3650,9 +3812,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L563",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_2",
-      "target": "output_defenses_2_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_2_cost"
     },
     {
       "relation": "contains",
@@ -3660,9 +3822,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L562",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_2",
-      "target": "output_defenses_2_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_2_dps"
     },
     {
       "relation": "contains",
@@ -3670,9 +3832,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L561",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_2",
-      "target": "output_defenses_2_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_2_hitpoints"
     },
     {
       "relation": "contains",
@@ -3680,9 +3842,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L565",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_2",
-      "target": "output_defenses_2_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_2_required_th"
     },
     {
       "relation": "contains",
@@ -3690,9 +3852,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L564",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_2",
-      "target": "output_defenses_2_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_2_time"
     },
     {
       "relation": "contains",
@@ -3700,9 +3862,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L314",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_2",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_2"
     },
     {
       "relation": "contains",
@@ -3710,9 +3872,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L560",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_wizard_tower_levels",
-      "target": "output_defenses_levels_2",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_2"
     },
     {
       "relation": "contains",
@@ -3720,9 +3882,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L451",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_3",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_3"
     },
     {
       "relation": "contains",
@@ -3730,9 +3892,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L170",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_3",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_3"
     },
     {
       "relation": "contains",
@@ -3740,9 +3902,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L570",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_3",
-      "target": "output_defenses_3_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_3_cost"
     },
     {
       "relation": "contains",
@@ -3750,9 +3912,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L569",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_3",
-      "target": "output_defenses_3_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_3_dps"
     },
     {
       "relation": "contains",
@@ -3760,9 +3922,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L568",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_3",
-      "target": "output_defenses_3_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_3_hitpoints"
     },
     {
       "relation": "contains",
@@ -3770,9 +3932,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L572",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_3",
-      "target": "output_defenses_3_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_3_required_th"
     },
     {
       "relation": "contains",
@@ -3780,9 +3942,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L571",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_3",
-      "target": "output_defenses_3_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_3_time"
     },
     {
       "relation": "contains",
@@ -3790,9 +3952,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L321",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_3",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_3"
     },
     {
       "relation": "contains",
@@ -3800,9 +3962,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L567",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_wizard_tower_levels",
-      "target": "output_defenses_levels_3",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_3"
     },
     {
       "relation": "contains",
@@ -3810,9 +3972,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L458",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_4",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_4"
     },
     {
       "relation": "contains",
@@ -3820,9 +3982,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L177",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_4",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_4"
     },
     {
       "relation": "contains",
@@ -3830,9 +3992,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L577",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_4",
-      "target": "output_defenses_4_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_4_cost"
     },
     {
       "relation": "contains",
@@ -3840,9 +4002,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L576",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_4",
-      "target": "output_defenses_4_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_4_dps"
     },
     {
       "relation": "contains",
@@ -3850,9 +4012,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L575",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_4",
-      "target": "output_defenses_4_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_4_hitpoints"
     },
     {
       "relation": "contains",
@@ -3860,9 +4022,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L579",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_4",
-      "target": "output_defenses_4_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_4_required_th"
     },
     {
       "relation": "contains",
@@ -3870,9 +4032,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L578",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_4",
-      "target": "output_defenses_4_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_4_time"
     },
     {
       "relation": "contains",
@@ -3880,9 +4042,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L328",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_4",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_4"
     },
     {
       "relation": "contains",
@@ -3890,9 +4052,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L574",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_wizard_tower_levels",
-      "target": "output_defenses_levels_4",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_4"
     },
     {
       "relation": "contains",
@@ -3900,9 +4062,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L465",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_5",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_5"
     },
     {
       "relation": "contains",
@@ -3910,9 +4072,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L184",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_5",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_5"
     },
     {
       "relation": "contains",
@@ -3920,9 +4082,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L584",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_5",
-      "target": "output_defenses_5_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_5_cost"
     },
     {
       "relation": "contains",
@@ -3930,9 +4092,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L583",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_5",
-      "target": "output_defenses_5_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_5_dps"
     },
     {
       "relation": "contains",
@@ -3940,9 +4102,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L582",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_5",
-      "target": "output_defenses_5_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_5_hitpoints"
     },
     {
       "relation": "contains",
@@ -3950,9 +4112,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L586",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_5",
-      "target": "output_defenses_5_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_5_required_th"
     },
     {
       "relation": "contains",
@@ -3960,9 +4122,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L585",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_5",
-      "target": "output_defenses_5_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_5_time"
     },
     {
       "relation": "contains",
@@ -3970,9 +4132,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L335",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_5",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_5"
     },
     {
       "relation": "contains",
@@ -3980,9 +4142,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L581",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_wizard_tower_levels",
-      "target": "output_defenses_levels_5",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_5"
     },
     {
       "relation": "contains",
@@ -3990,9 +4152,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L472",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_6",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_6"
     },
     {
       "relation": "contains",
@@ -4000,9 +4162,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L191",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_6",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_6"
     },
     {
       "relation": "contains",
@@ -4010,9 +4172,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L475",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_6",
-      "target": "output_defenses_6_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_6_cost"
     },
     {
       "relation": "contains",
@@ -4020,9 +4182,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L590",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_6",
-      "target": "output_defenses_6_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_6_dps"
     },
     {
       "relation": "contains",
@@ -4030,9 +4192,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L589",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_6",
-      "target": "output_defenses_6_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_6_hitpoints"
     },
     {
       "relation": "contains",
@@ -4040,9 +4202,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L477",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_6",
-      "target": "output_defenses_6_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_6_required_th"
     },
     {
       "relation": "contains",
@@ -4050,9 +4212,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L476",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_6",
-      "target": "output_defenses_6_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_6_time"
     },
     {
       "relation": "contains",
@@ -4060,9 +4222,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L342",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_6",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_6"
     },
     {
       "relation": "contains",
@@ -4070,9 +4232,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L588",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_wizard_tower_levels",
-      "target": "output_defenses_levels_6",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_6"
     },
     {
       "relation": "contains",
@@ -4080,9 +4242,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L479",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_7",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_7"
     },
     {
       "relation": "contains",
@@ -4090,9 +4252,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L198",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_7",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_7"
     },
     {
       "relation": "contains",
@@ -4100,9 +4262,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L482",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_7",
-      "target": "output_defenses_7_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_7_cost"
     },
     {
       "relation": "contains",
@@ -4110,9 +4272,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L481",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_7",
-      "target": "output_defenses_7_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_7_dps"
     },
     {
       "relation": "contains",
@@ -4120,9 +4282,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L480",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_7",
-      "target": "output_defenses_7_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_7_hitpoints"
     },
     {
       "relation": "contains",
@@ -4130,9 +4292,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L484",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_7",
-      "target": "output_defenses_7_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_7_required_th"
     },
     {
       "relation": "contains",
@@ -4140,9 +4302,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L483",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_7",
-      "target": "output_defenses_7_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_7_time"
     },
     {
       "relation": "contains",
@@ -4150,9 +4312,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L349",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_7",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_7"
     },
     {
       "relation": "contains",
@@ -4160,9 +4322,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L486",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_8",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_8"
     },
     {
       "relation": "contains",
@@ -4170,9 +4332,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L205",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_8",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_8"
     },
     {
       "relation": "contains",
@@ -4180,9 +4342,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L489",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_8",
-      "target": "output_defenses_8_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_8_cost"
     },
     {
       "relation": "contains",
@@ -4190,9 +4352,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L488",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_8",
-      "target": "output_defenses_8_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_8_dps"
     },
     {
       "relation": "contains",
@@ -4200,9 +4362,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L487",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_8",
-      "target": "output_defenses_8_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_8_hitpoints"
     },
     {
       "relation": "contains",
@@ -4210,9 +4372,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L491",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_8",
-      "target": "output_defenses_8_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_8_required_th"
     },
     {
       "relation": "contains",
@@ -4220,9 +4382,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L490",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_8",
-      "target": "output_defenses_8_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_8_time"
     },
     {
       "relation": "contains",
@@ -4230,9 +4392,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L356",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_8",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_8"
     },
     {
       "relation": "contains",
@@ -4240,9 +4402,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L493",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_9",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_9"
     },
     {
       "relation": "contains",
@@ -4250,9 +4412,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L212",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_9",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_9"
     },
     {
       "relation": "contains",
@@ -4260,9 +4422,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L496",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_9",
-      "target": "output_defenses_9_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_9_cost"
     },
     {
       "relation": "contains",
@@ -4270,9 +4432,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L495",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_9",
-      "target": "output_defenses_9_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_9_dps"
     },
     {
       "relation": "contains",
@@ -4280,9 +4442,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L494",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_9",
-      "target": "output_defenses_9_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_9_hitpoints"
     },
     {
       "relation": "contains",
@@ -4290,9 +4452,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L498",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_9",
-      "target": "output_defenses_9_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_9_required_th"
     },
     {
       "relation": "contains",
@@ -4300,9 +4462,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L497",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_9",
-      "target": "output_defenses_9_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_9_time"
     },
     {
       "relation": "contains",
@@ -4310,9 +4472,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L363",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_9",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_9"
     },
     {
       "relation": "contains",
@@ -4320,9 +4482,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L500",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_10",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_10"
     },
     {
       "relation": "contains",
@@ -4330,9 +4492,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L219",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_10",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_10"
     },
     {
       "relation": "contains",
@@ -4340,9 +4502,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L503",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_10",
-      "target": "output_defenses_10_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_10_cost"
     },
     {
       "relation": "contains",
@@ -4350,9 +4512,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L502",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_10",
-      "target": "output_defenses_10_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_10_dps"
     },
     {
       "relation": "contains",
@@ -4360,9 +4522,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L501",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_10",
-      "target": "output_defenses_10_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_10_hitpoints"
     },
     {
       "relation": "contains",
@@ -4370,9 +4532,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L505",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_10",
-      "target": "output_defenses_10_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_10_required_th"
     },
     {
       "relation": "contains",
@@ -4380,9 +4542,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L504",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_10",
-      "target": "output_defenses_10_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_10_time"
     },
     {
       "relation": "contains",
@@ -4390,9 +4552,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L370",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_10",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_10"
     },
     {
       "relation": "contains",
@@ -4400,9 +4562,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L507",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_11",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_11"
     },
     {
       "relation": "contains",
@@ -4410,9 +4572,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L226",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_11",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_11"
     },
     {
       "relation": "contains",
@@ -4420,9 +4582,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L510",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_11",
-      "target": "output_defenses_11_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_11_cost"
     },
     {
       "relation": "contains",
@@ -4430,9 +4592,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L509",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_11",
-      "target": "output_defenses_11_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_11_dps"
     },
     {
       "relation": "contains",
@@ -4440,9 +4602,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L508",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_11",
-      "target": "output_defenses_11_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_11_hitpoints"
     },
     {
       "relation": "contains",
@@ -4450,9 +4612,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L512",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_11",
-      "target": "output_defenses_11_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_11_required_th"
     },
     {
       "relation": "contains",
@@ -4460,9 +4622,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L511",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_11",
-      "target": "output_defenses_11_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_11_time"
     },
     {
       "relation": "contains",
@@ -4470,9 +4632,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L377",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_11",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_11"
     },
     {
       "relation": "contains",
@@ -4480,9 +4642,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L514",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_12",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_12"
     },
     {
       "relation": "contains",
@@ -4490,9 +4652,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L233",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_12",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_12"
     },
     {
       "relation": "contains",
@@ -4500,9 +4662,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L517",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_12",
-      "target": "output_defenses_12_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_12_cost"
     },
     {
       "relation": "contains",
@@ -4510,9 +4672,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L516",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_12",
-      "target": "output_defenses_12_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_12_dps"
     },
     {
       "relation": "contains",
@@ -4520,9 +4682,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L515",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_12",
-      "target": "output_defenses_12_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_12_hitpoints"
     },
     {
       "relation": "contains",
@@ -4530,9 +4692,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L519",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_12",
-      "target": "output_defenses_12_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_12_required_th"
     },
     {
       "relation": "contains",
@@ -4540,9 +4702,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L518",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_12",
-      "target": "output_defenses_12_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_12_time"
     },
     {
       "relation": "contains",
@@ -4550,9 +4712,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L384",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_12",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_12"
     },
     {
       "relation": "contains",
@@ -4560,9 +4722,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L521",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_13",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_13"
     },
     {
       "relation": "contains",
@@ -4570,9 +4732,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L240",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_13",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_13"
     },
     {
       "relation": "contains",
@@ -4580,9 +4742,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L524",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_13",
-      "target": "output_defenses_13_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_13_cost"
     },
     {
       "relation": "contains",
@@ -4590,9 +4752,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L523",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_13",
-      "target": "output_defenses_13_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_13_dps"
     },
     {
       "relation": "contains",
@@ -4600,9 +4762,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L522",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_13",
-      "target": "output_defenses_13_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_13_hitpoints"
     },
     {
       "relation": "contains",
@@ -4610,9 +4772,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L526",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_13",
-      "target": "output_defenses_13_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_13_required_th"
     },
     {
       "relation": "contains",
@@ -4620,9 +4782,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L525",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_13",
-      "target": "output_defenses_13_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_13_time"
     },
     {
       "relation": "contains",
@@ -4630,9 +4792,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L391",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_13",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_13"
     },
     {
       "relation": "contains",
@@ -4640,9 +4802,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L528",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_14",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_14"
     },
     {
       "relation": "contains",
@@ -4650,9 +4812,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L247",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_14",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_14"
     },
     {
       "relation": "contains",
@@ -4660,9 +4822,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L531",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_14",
-      "target": "output_defenses_14_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_14_cost"
     },
     {
       "relation": "contains",
@@ -4670,9 +4832,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L530",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_14",
-      "target": "output_defenses_14_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_14_dps"
     },
     {
       "relation": "contains",
@@ -4680,9 +4842,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L529",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_14",
-      "target": "output_defenses_14_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_14_hitpoints"
     },
     {
       "relation": "contains",
@@ -4690,9 +4852,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L533",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_14",
-      "target": "output_defenses_14_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_14_required_th"
     },
     {
       "relation": "contains",
@@ -4700,9 +4862,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L532",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_14",
-      "target": "output_defenses_14_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_14_time"
     },
     {
       "relation": "contains",
@@ -4710,9 +4872,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L398",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_14",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_14"
     },
     {
       "relation": "contains",
@@ -4720,9 +4882,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L535",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_15",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_15"
     },
     {
       "relation": "contains",
@@ -4730,9 +4892,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L254",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_15",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_15"
     },
     {
       "relation": "contains",
@@ -4740,9 +4902,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L538",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_15",
-      "target": "output_defenses_15_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_15_cost"
     },
     {
       "relation": "contains",
@@ -4750,9 +4912,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L537",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_15",
-      "target": "output_defenses_15_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_15_dps"
     },
     {
       "relation": "contains",
@@ -4760,9 +4922,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L536",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_15",
-      "target": "output_defenses_15_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_15_hitpoints"
     },
     {
       "relation": "contains",
@@ -4770,9 +4932,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L540",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_15",
-      "target": "output_defenses_15_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_15_required_th"
     },
     {
       "relation": "contains",
@@ -4780,9 +4942,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L539",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_15",
-      "target": "output_defenses_15_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_15_time"
     },
     {
       "relation": "contains",
@@ -4790,9 +4952,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L405",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_15",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_15"
     },
     {
       "relation": "contains",
@@ -4800,9 +4962,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L542",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_air_defense_levels",
-      "target": "output_defenses_levels_16",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_16"
     },
     {
       "relation": "contains",
@@ -4810,9 +4972,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L261",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_16",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_16"
     },
     {
       "relation": "contains",
@@ -4820,9 +4982,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L545",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_16",
-      "target": "output_defenses_16_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_16_cost"
     },
     {
       "relation": "contains",
@@ -4830,9 +4992,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L544",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_16",
-      "target": "output_defenses_16_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_16_dps"
     },
     {
       "relation": "contains",
@@ -4840,9 +5002,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L543",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_16",
-      "target": "output_defenses_16_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_16_hitpoints"
     },
     {
       "relation": "contains",
@@ -4850,9 +5012,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L547",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_16",
-      "target": "output_defenses_16_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_16_required_th"
     },
     {
       "relation": "contains",
@@ -4860,9 +5022,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L546",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_16",
-      "target": "output_defenses_16_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_16_time"
     },
     {
       "relation": "contains",
@@ -4870,9 +5032,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L412",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_16",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_16"
     },
     {
       "relation": "contains",
@@ -4880,9 +5042,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L268",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_17",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_17"
     },
     {
       "relation": "contains",
@@ -4890,9 +5052,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L422",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_17",
-      "target": "output_defenses_17_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_17_cost"
     },
     {
       "relation": "contains",
@@ -4900,9 +5062,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L421",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_17",
-      "target": "output_defenses_17_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_17_dps"
     },
     {
       "relation": "contains",
@@ -4910,9 +5072,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L420",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_17",
-      "target": "output_defenses_17_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_17_hitpoints"
     },
     {
       "relation": "contains",
@@ -4920,9 +5082,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L424",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_17",
-      "target": "output_defenses_17_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_17_required_th"
     },
     {
       "relation": "contains",
@@ -4930,9 +5092,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L423",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_17",
-      "target": "output_defenses_17_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_17_time"
     },
     {
       "relation": "contains",
@@ -4940,9 +5102,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L419",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_17",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_17"
     },
     {
       "relation": "contains",
@@ -4950,9 +5112,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L275",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_18",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_18"
     },
     {
       "relation": "contains",
@@ -4960,9 +5122,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L429",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_18",
-      "target": "output_defenses_18_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_18_cost"
     },
     {
       "relation": "contains",
@@ -4970,9 +5132,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L428",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_18",
-      "target": "output_defenses_18_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_18_dps"
     },
     {
       "relation": "contains",
@@ -4980,9 +5142,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L427",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_18",
-      "target": "output_defenses_18_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_18_hitpoints"
     },
     {
       "relation": "contains",
@@ -4990,9 +5152,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L431",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_18",
-      "target": "output_defenses_18_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_18_required_th"
     },
     {
       "relation": "contains",
@@ -5000,9 +5162,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L430",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_18",
-      "target": "output_defenses_18_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_18_time"
     },
     {
       "relation": "contains",
@@ -5010,9 +5172,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L426",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_mortar_levels",
-      "target": "output_defenses_levels_18",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_18"
     },
     {
       "relation": "contains",
@@ -5020,9 +5182,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L282",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_19",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_19"
     },
     {
       "relation": "contains",
@@ -5030,9 +5192,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L285",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_19",
-      "target": "output_defenses_19_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_19_cost"
     },
     {
       "relation": "contains",
@@ -5040,9 +5202,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L284",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_19",
-      "target": "output_defenses_19_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_19_dps"
     },
     {
       "relation": "contains",
@@ -5050,9 +5212,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L283",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_19",
-      "target": "output_defenses_19_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_19_hitpoints"
     },
     {
       "relation": "contains",
@@ -5060,9 +5222,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L287",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_19",
-      "target": "output_defenses_19_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_19_required_th"
     },
     {
       "relation": "contains",
@@ -5070,9 +5232,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L286",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_19",
-      "target": "output_defenses_19_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_19_time"
     },
     {
       "relation": "contains",
@@ -5080,9 +5242,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L289",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_20",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_20"
     },
     {
       "relation": "contains",
@@ -5090,9 +5252,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L292",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_20",
-      "target": "output_defenses_20_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_20_cost"
     },
     {
       "relation": "contains",
@@ -5100,9 +5262,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L291",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_20",
-      "target": "output_defenses_20_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_20_dps"
     },
     {
       "relation": "contains",
@@ -5110,9 +5272,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L290",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_20",
-      "target": "output_defenses_20_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_20_hitpoints"
     },
     {
       "relation": "contains",
@@ -5120,9 +5282,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L294",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_20",
-      "target": "output_defenses_20_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_20_required_th"
     },
     {
       "relation": "contains",
@@ -5130,9 +5292,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L293",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_20",
-      "target": "output_defenses_20_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_20_time"
     },
     {
       "relation": "contains",
@@ -5140,9 +5302,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L296",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_archer_tower_levels",
-      "target": "output_defenses_levels_21",
-      "confidence_score": 1.0
+      "target": "output_defenses_levels_21"
     },
     {
       "relation": "contains",
@@ -5150,9 +5312,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L299",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_21",
-      "target": "output_defenses_21_cost",
-      "confidence_score": 1.0
+      "target": "output_defenses_21_cost"
     },
     {
       "relation": "contains",
@@ -5160,9 +5322,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L298",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_21",
-      "target": "output_defenses_21_dps",
-      "confidence_score": 1.0
+      "target": "output_defenses_21_dps"
     },
     {
       "relation": "contains",
@@ -5170,9 +5332,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L297",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_21",
-      "target": "output_defenses_21_hitpoints",
-      "confidence_score": 1.0
+      "target": "output_defenses_21_hitpoints"
     },
     {
       "relation": "contains",
@@ -5180,9 +5342,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L301",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_21",
-      "target": "output_defenses_21_required_th",
-      "confidence_score": 1.0
+      "target": "output_defenses_21_required_th"
     },
     {
       "relation": "contains",
@@ -5190,9 +5352,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L300",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_levels_21",
-      "target": "output_defenses_21_time",
-      "confidence_score": 1.0
+      "target": "output_defenses_21_time"
     },
     {
       "relation": "contains",
@@ -5200,9 +5362,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L155",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses_archer_tower",
-      "target": "output_defenses_archer_tower_levels",
-      "confidence_score": 1.0
+      "target": "output_defenses_archer_tower_levels"
     },
     {
       "relation": "contains",
@@ -5210,9 +5372,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L306",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses_mortar",
-      "target": "output_defenses_mortar_levels",
-      "confidence_score": 1.0
+      "target": "output_defenses_mortar_levels"
     },
     {
       "relation": "contains",
@@ -5220,9 +5382,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L436",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses_air_defense",
-      "target": "output_defenses_air_defense_levels",
-      "confidence_score": 1.0
+      "target": "output_defenses_air_defense_levels"
     },
     {
       "relation": "contains",
@@ -5230,9 +5392,9 @@
       "source_file": "coc-data-extraction-apk/output/defenses.json",
       "source_location": "L552",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "output_defenses_defenses_wizard_tower",
-      "target": "output_defenses_wizard_tower_levels",
-      "confidence_score": 1.0
+      "target": "output_defenses_wizard_tower_levels"
     },
     {
       "relation": "contains",
@@ -7268,11 +7430,91 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "run.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_decompress_sc_csv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_extract_buildings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L177",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_extract_characters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_extract_heroes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L289",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_extract_pets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L339",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_extract_traps",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
       "source_location": "L12",
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "run",
       "target": "run_main"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_make_time_str",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "run",
+      "target": "run_parse_raw_csv",
+      "confidence_score": 1.0
     },
     {
       "relation": "imports_from",
@@ -7350,6 +7592,218 @@
       "confidence_score": 1.0,
       "source": "run",
       "target": "utils_file_handler_save_json"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L411",
+      "weight": 1.0,
+      "source": "run_main",
+      "target": "run_decompress_sc_csv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "run_rationale_44",
+      "target": "run_decompress_sc_csv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L150",
+      "weight": 1.0,
+      "source": "run_extract_buildings",
+      "target": "run_make_time_str",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "run_extract_characters",
+      "target": "run_make_time_str",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L262",
+      "weight": 1.0,
+      "source": "run_extract_heroes",
+      "target": "run_make_time_str",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L312",
+      "weight": 1.0,
+      "source": "run_extract_pets",
+      "target": "run_make_time_str",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L369",
+      "weight": 1.0,
+      "source": "run_extract_traps",
+      "target": "run_make_time_str",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "run_rationale_62",
+      "target": "run_make_time_str",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L422",
+      "weight": 1.0,
+      "source": "run_main",
+      "target": "run_parse_raw_csv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "run_rationale_72",
+      "target": "run_parse_raw_csv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L423",
+      "weight": 1.0,
+      "source": "run_main",
+      "target": "run_extract_buildings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "run_rationale_115",
+      "target": "run_extract_buildings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L429",
+      "weight": 1.0,
+      "source": "run_main",
+      "target": "run_extract_characters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "run_rationale_178",
+      "target": "run_extract_characters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L435",
+      "weight": 1.0,
+      "source": "run_main",
+      "target": "run_extract_heroes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L240",
+      "weight": 1.0,
+      "source": "run_rationale_240",
+      "target": "run_extract_heroes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L441",
+      "weight": 1.0,
+      "source": "run_main",
+      "target": "run_extract_pets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L290",
+      "weight": 1.0,
+      "source": "run_rationale_290",
+      "target": "run_extract_pets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L447",
+      "weight": 1.0,
+      "source": "run_main",
+      "target": "run_extract_traps",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run.py",
+      "source_location": "L340",
+      "weight": 1.0,
+      "source": "run_rationale_340",
+      "target": "run_extract_traps",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -7528,5 +7982,6 @@
       "target": "data_defenses_0_time"
     }
   ],
-  "hyperedges": []
+  "hyperedges": [],
+  "built_at_commit": "44e46f5bdbbc3cdc655c9310bc85435403fb3244"
 }

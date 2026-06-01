@@ -1,17 +1,17 @@
 {
   "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\data\\changes.json": {
-    "mtime": 1780304028.2906127,
-    "ast_hash": "1ee0a4beba2318162a6b20cc4696badf",
+    "mtime": 1780312432.798614,
+    "ast_hash": "1a36116fff03e2249cab86be4aade61e",
     "semantic_hash": ""
   },
   "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\data\\defenses.json": {
-    "mtime": 1780304028.22524,
-    "ast_hash": "ca53115d10f4b0ba589427b14114b36c",
+    "mtime": 1780312432.7209673,
+    "ast_hash": "edc919c4a5721dd075d350d46e1d9535",
     "semantic_hash": ""
   },
   "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\run.py": {
-    "mtime": 1780303921.8002942,
-    "ast_hash": "503cd9e69974a5f6bb4f46b93f8f935d",
+    "mtime": 1780312370.1575968,
+    "ast_hash": "c0e1842ce03aa82dcc0baa88ab49773c",
     "semantic_hash": ""
   },
   "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\scrapers\\update_defenses.py": {
@@ -30,8 +30,8 @@
     "semantic_hash": ""
   },
   "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\requirement.txt": {
-    "mtime": 1780054128.8458295,
-    "ast_hash": "6155a583d31a79d3ebc4f15f3abd0cbd",
+    "mtime": 1780311793.0246823,
+    "ast_hash": "2af0e97a390b0e0f9393f2669a84151a",
     "semantic_hash": ""
   },
   "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\.gemini\\settings.json": {
@@ -57,6 +57,16 @@
   "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\coc-data-extraction-apk\\output\\defenses.json": {
     "mtime": 1780305960.0112188,
     "ast_hash": "9c43d733b81036dc970a7ed603991a92",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\pandas_coc_dataframe.py": {
+    "mtime": 1780312448.0078757,
+    "ast_hash": "fac47eca7bfa7ee3932d849f69d57414",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\abc\\Desktop\\Python\\Guess Game\\coc-data\\README.md": {
+    "mtime": 1780306180.7080534,
+    "ast_hash": "f1599ca56ab8945290a799d02781d67f",
     "semantic_hash": ""
   }
 }
