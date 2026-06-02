@@ -28,6 +28,7 @@ def convert_json_to_csv(json_path="data/defenses.json", csv_path="data/defenses.
     headers = [
         "Category",
         "Building",
+        "ID",
         "Level",
         "Hitpoints",
         "DPS",
@@ -47,6 +48,7 @@ def convert_json_to_csv(json_path="data/defenses.json", csv_path="data/defenses.
             continue
 
         for building_name, building_data in buildings_dict.items():
+            building_id = building_data.get("id")
             levels_dict = building_data.get("levels", {})
             if not isinstance(levels_dict, dict):
                 continue
@@ -62,6 +64,7 @@ def convert_json_to_csv(json_path="data/defenses.json", csv_path="data/defenses.
                 rows.append([
                     category.replace("_", " ").title(),  # Clean format e.g. "Builder Base"
                     building_name,
+                    building_id if building_id is not None else "",
                     level,
                     hitpoints if hitpoints is not None else "",
                     dps if dps is not None else "",
@@ -77,7 +80,7 @@ def convert_json_to_csv(json_path="data/defenses.json", csv_path="data/defenses.
     def sort_key(row):
         cat = row[0]
         bld = row[1]
-        lvl_str = row[2]
+        lvl_str = row[3]
         try:
             lvl = int(lvl_str)
         except ValueError:

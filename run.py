@@ -68,7 +68,7 @@ def make_time_str(d, h, m, s):
     return " ".join(parts) if parts else "Instant"
 
 
-def parse_raw_csv(csv_content):
+def parse_raw_csv(csv_content, file_name=None):
     """
     Parses a Supercell logic CSV.
     - Dynamically flattens column headers using the row 0 colspans.
@@ -92,13 +92,38 @@ def parse_raw_csv(csv_content):
         else:
             flat_headers.append(cell.strip())
 
+    CLASS_IDS = {
+        "buildings.csv": 1,
+        "characters.csv": 4,
+        "heroes.csv": 28,
+        "pets.csv": 73,
+        "traps.csv": 12,
+        "character_items.csv": 90
+    }
+    class_id = CLASS_IDS.get(file_name) if file_name else None
+
     data_rows = []
     current_name = ""
+    current_global_id = ""
+    seen_names = []
+
     for r in rows[2:]:
         if not r:
             continue
         if r[0] != "":
             current_name = r[0].strip()
+            if current_name not in seen_names:
+                seen_names.append(current_name)
+            
+            current_global_id = ""
+            if "GlobalID" in flat_headers:
+                g_idx = flat_headers.index("GlobalID")
+                if g_idx < len(r) and r[g_idx] != "":
+                    current_global_id = r[g_idx].strip()
+            
+            if not current_global_id and class_id is not None:
+                entity_index = seen_names.index(current_name)
+                current_global_id = str(class_id * 1000000 + entity_index)
         
         row_dict = {}
         for idx, h in enumerate(flat_headers):
@@ -106,6 +131,8 @@ def parse_raw_csv(csv_content):
                 row_dict[h] = r[idx].strip()
         
         row_dict["Name"] = current_name
+        if current_global_id:
+            row_dict["GlobalID"] = current_global_id
         data_rows.append(row_dict)
 
     return flat_headers, data_rows
@@ -163,7 +190,11 @@ def extract_buildings(rows):
 
         required_th = row.get("TownHallLevel", "1")
 
-        categories[target_cat].setdefault(clean_name, {"levels": {}})[ "levels"][lvl] = {
+        item_dict = categories[target_cat].setdefault(clean_name, {"id": None, "levels": {}})
+        if row.get("GlobalID"):
+            item_dict["id"] = int(row["GlobalID"])
+
+        item_dict["levels"][lvl] = {
             "hitpoints": hp_val,
             "dps": dps_val,
             "cost": cost,
@@ -225,7 +256,11 @@ def extract_characters(rows):
         if not required_th or required_th == "0":
             required_th = "N/A"
 
-        categories[target_cat].setdefault(clean_name, {"levels": {}})[ "levels"][lvl] = {
+        item_dict = categories[target_cat].setdefault(clean_name, {"id": None, "levels": {}})
+        if row.get("GlobalID"):
+            item_dict["id"] = int(row["GlobalID"])
+
+        item_dict["levels"][lvl] = {
             "hitpoints": hp_val,
             "dps": dps_val,
             "cost": cost,
@@ -275,7 +310,11 @@ def extract_heroes(rows):
 
         required_th = row.get("TownHallLevelRequired", "1")
 
-        category.setdefault(clean_name, {"levels": {}})[ "levels"][lvl] = {
+        item_dict = category.setdefault(clean_name, {"id": None, "levels": {}})
+        if row.get("GlobalID"):
+            item_dict["id"] = int(row["GlobalID"])
+
+        item_dict["levels"][lvl] = {
             "hitpoints": hp_val,
             "dps": dps_val,
             "cost": cost,
@@ -325,7 +364,11 @@ def extract_pets(rows):
 
         required_th = row.get("PetHouseLevelRequired", "1")
 
-        category.setdefault(clean_name, {"levels": {}})[ "levels"][lvl] = {
+        item_dict = category.setdefault(clean_name, {"id": None, "levels": {}})
+        if row.get("GlobalID"):
+            item_dict["id"] = int(row["GlobalID"])
+
+        item_dict["levels"][lvl] = {
             "hitpoints": hp_val,
             "dps": dps_val,
             "cost": cost,
@@ -376,7 +419,11 @@ def extract_traps(rows):
 
         required_th = row.get("TownHallLevel", "1")
 
-        categories[target_cat].setdefault(clean_name, {"levels": {}})[ "levels"][lvl] = {
+        item_dict = categories[target_cat].setdefault(clean_name, {"id": None, "levels": {}})
+        if row.get("GlobalID"):
+            item_dict["id"] = int(row["GlobalID"])
+
+        item_dict["levels"][lvl] = {
             "hitpoints": None,
             "dps": None,
             "cost": cost,
@@ -419,31 +466,31 @@ def main():
     
     # 1. Parse Buildings
     print("Parsing buildings...")
-    _, buildings_rows = parse_raw_csv(decompressed_data["buildings.csv"])
+    _, buildings_rows = parse_raw_csv(decompressed_data["buildings.csv"], "buildings.csv")
     b_cats = extract_buildings(buildings_rows)
     master_data.update(b_cats)
 
     # 2. Parse Characters (Troops & BB Troops)
     print("Parsing characters...")
-    _, char_rows = parse_raw_csv(decompressed_data["characters.csv"])
+    _, char_rows = parse_raw_csv(decompressed_data["characters.csv"], "characters.csv")
     c_cats = extract_characters(char_rows)
     master_data.update(c_cats)
 
     # 3. Parse Heroes
     print("Parsing heroes...")
-    _, hero_rows = parse_raw_csv(decompressed_data["heroes.csv"])
+    _, hero_rows = parse_raw_csv(decompressed_data["heroes.csv"], "heroes.csv")
     h_cats = extract_heroes(hero_rows)
     master_data.update(h_cats)
 
     # 4. Parse Pets
     print("Parsing pets...")
-    _, pet_rows = parse_raw_csv(decompressed_data["pets.csv"])
+    _, pet_rows = parse_raw_csv(decompressed_data["pets.csv"], "pets.csv")
     p_cats = extract_pets(pet_rows)
     master_data.update(p_cats)
 
     # 5. Parse Traps (HV & BB traps)
     print("Parsing traps...")
-    _, trap_rows = parse_raw_csv(decompressed_data["traps.csv"])
+    _, trap_rows = parse_raw_csv(decompressed_data["traps.csv"], "traps.csv")
     t_cats = extract_traps(trap_rows)
     master_data.update(t_cats)
 
@@ -455,11 +502,15 @@ def main():
     equipment_cat = {}
     if len(ci_rows) > 2:
         current_name = ""
+        seen_equipment = []
         for r in ci_rows[2:]:
             if not r:
                 continue
             if r[0] != "":
-                current_name = r[0].strip()
+                name_candidate = r[0].strip()
+                if name_candidate and name_candidate not in seen_equipment:
+                    seen_equipment.append(name_candidate)
+                current_name = name_candidate
                 
             if current_name not in ["Barbarian Puppet", "Rage Vial", "Archer Puppet", "Invisibility Vial", "Eternal Tome", "Life Gem", "Giant Gauntlet", "Earthquake Boots", "Healer Puppet", "Rage Gem", "Healing Tome"]:
                 continue
@@ -506,7 +557,10 @@ def main():
 
             required_blacksmith = r[11].strip() if len(r) > 11 else "1"
 
-            equipment_cat.setdefault(current_name, {"levels": {}})[ "levels"][lvl] = {
+            eq_id = 90000000 + seen_equipment.index(current_name)
+
+            item_dict = equipment_cat.setdefault(current_name, {"id": eq_id, "levels": {}})
+            item_dict["levels"][lvl] = {
                 "hitpoints": hp_val,
                 "dps": dps_val,
                 "cost": cost_str,
@@ -561,7 +615,7 @@ def main():
 
     # Generate and save clean flat CSV spreadsheet
     csv_path = Path("data/defenses.csv")
-    headers = ["Category", "Building", "Level", "Hitpoints", "DPS", "Cost", "Time", "Required Town Hall"]
+    headers = ["Category", "Building", "ID", "Level", "Hitpoints", "DPS", "Cost", "Time", "Required Town Hall"]
     
     rows_to_write = []
     for category in categories_keys:
@@ -572,6 +626,7 @@ def main():
                 rows_to_write.append([
                     category.replace("_", " ").title(),
                     building_name,
+                    building_data.get("id") if building_data.get("id") is not None else "",
                     level,
                     stats.get("hitpoints") if stats.get("hitpoints") is not None else "",
                     stats.get("dps") if stats.get("dps") is not None else "",
@@ -583,7 +638,7 @@ def main():
     def sort_key(row):
         cat = row[0]
         bld = row[1]
-        lvl_str = row[2]
+        lvl_str = row[3]
         try:
             lvl = int(lvl_str)
         except ValueError:

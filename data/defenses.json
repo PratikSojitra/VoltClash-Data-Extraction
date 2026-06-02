@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-06-01T16:43:52.695232",
+  "last_updated": "2026-06-02T15:59:12.149358",
   "defenses": {
     "Cannon": {
+      "id": 1000008,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -153,6 +154,7 @@
       }
     },
     "Archer Tower": {
+      "id": 1000009,
       "levels": {
         "1": {
           "hitpoints": 380,
@@ -304,6 +306,7 @@
       }
     },
     "Mortar": {
+      "id": 1000013,
       "levels": {
         "1": {
           "hitpoints": 400,
@@ -434,6 +437,7 @@
       }
     },
     "Air Defense": {
+      "id": 1000012,
       "levels": {
         "1": {
           "hitpoints": 800,
@@ -550,6 +554,7 @@
       }
     },
     "Wizard Tower": {
+      "id": 1000011,
       "levels": {
         "1": {
           "hitpoints": 620,
@@ -673,6 +678,7 @@
       }
     },
     "Air Sweeper": {
+      "id": 1000028,
       "levels": {
         "1": {
           "hitpoints": 750,
@@ -726,6 +732,7 @@
       }
     },
     "Hidden Tesla": {
+      "id": 1000019,
       "levels": {
         "1": {
           "hitpoints": 600,
@@ -849,6 +856,7 @@
       }
     },
     "Bomb Tower": {
+      "id": 1000032,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -944,6 +952,7 @@
       }
     },
     "X-Bow": {
+      "id": 1000021,
       "levels": {
         "1": {
           "hitpoints": 1500,
@@ -1039,6 +1048,7 @@
       }
     },
     "Inferno Tower": {
+      "id": 1000027,
       "levels": {
         "1": {
           "hitpoints": 1500,
@@ -1127,6 +1137,7 @@
       }
     },
     "Eagle Artillery": {
+      "id": 1000031,
       "levels": {
         "1": {
           "hitpoints": 4000,
@@ -1180,6 +1191,7 @@
       }
     },
     "Scattershot": {
+      "id": 1000067,
       "levels": {
         "1": {
           "hitpoints": 3600,
@@ -1233,6 +1245,7 @@
       }
     },
     "Spell Tower": {
+      "id": 1000072,
       "levels": {
         "1": {
           "hitpoints": 2500,
@@ -1265,6 +1278,7 @@
       }
     },
     "Monolith": {
+      "id": 1000077,
       "levels": {
         "1": {
           "hitpoints": 4747,
@@ -1297,6 +1311,7 @@
       }
     },
     "Multi Archer Tower": {
+      "id": 1000084,
       "levels": {
         "1": {
           "hitpoints": 5000,
@@ -1308,6 +1323,7 @@
       }
     },
     "Ricochet Cannon": {
+      "id": 1000085,
       "levels": {
         "1": {
           "hitpoints": 5400,
@@ -1319,6 +1335,7 @@
       }
     },
     "Multi Gear Tower": {
+      "id": 1000079,
       "levels": {
         "1": {
           "hitpoints": 4000,
@@ -1330,6 +1347,7 @@
       }
     },
     "Firespitter": {
+      "id": 1000089,
       "levels": {
         "1": {
           "hitpoints": 4500,
@@ -1341,6 +1359,7 @@
       }
     },
     "Revenge Tower": {
+      "id": 1000086,
       "levels": {
         "1": {
           "hitpoints": 5800,
@@ -1352,6 +1371,7 @@
       }
     },
     "Super Wizard Tower": {
+      "id": 1000102,
       "levels": {
         "1": {
           "hitpoints": 6000,
@@ -1363,6 +1383,7 @@
       }
     },
     "Crafting Station": {
+      "id": 1000097,
       "levels": {
         "1": {
           "hitpoints": 1000,
@@ -1374,6 +1395,7 @@
       }
     },
     "Unused2": {
+      "id": 1000087,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -1385,6 +1407,7 @@
       }
     },
     "Unused3": {
+      "id": 1000088,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -1396,6 +1419,7 @@
       }
     },
     "Unused4": {
+      "id": 1000094,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -1407,6 +1431,7 @@
       }
     },
     "Unused5": {
+      "id": 1000095,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -1418,6 +1443,7 @@
       }
     },
     "Unused6": {
+      "id": 1000096,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -1431,6 +1457,7 @@
   },
   "resources": {
     "Gold Mine": {
+      "id": 1000004,
       "levels": {
         "1": {
           "hitpoints": 75,
@@ -1442,6 +1469,7 @@
       }
     },
     "Elixir Collector": {
+      "id": 1000002,
       "levels": {
         "1": {
           "hitpoints": 75,
@@ -1453,6 +1481,7 @@
       }
     },
     "Dark Elixir Drill": {
+      "id": 1000023,
       "levels": {
         "1": {
           "hitpoints": 800,
@@ -1464,6 +1493,7 @@
       }
     },
     "Gold Storage": {
+      "id": 1000005,
       "levels": {
         "1": {
           "hitpoints": 150,
@@ -1475,6 +1505,7 @@
       }
     },
     "Elixir Storage": {
+      "id": 1000003,
       "levels": {
         "1": {
           "hitpoints": 150,
@@ -1486,6 +1517,7 @@
       }
     },
     "Dark Elixir Storage": {
+      "id": 1000024,
       "levels": {
         "1": {
           "hitpoints": 2000,
@@ -1599,6 +1631,7 @@
       }
     },
     "Sour Elixir Cauldron": {
+      "id": 1000083,
       "levels": {
         "1": {
           "hitpoints": 1000,
@@ -1612,6 +1645,7 @@
   },
   "army": {
     "Army Camp": {
+      "id": 1000000,
       "levels": {
         "1": {
           "hitpoints": 100,
@@ -1623,6 +1657,7 @@
       }
     },
     "Barracks": {
+      "id": 1000006,
       "levels": {
         "1": {
           "hitpoints": 100,
@@ -1760,6 +1795,7 @@
       }
     },
     "Dark Barracks": {
+      "id": 1000026,
       "levels": {
         "1": {
           "hitpoints": 500,
@@ -1848,6 +1884,7 @@
       }
     },
     "Laboratory": {
+      "id": 1000007,
       "levels": {
         "1": {
           "hitpoints": 500,
@@ -1859,6 +1896,7 @@
       }
     },
     "Spell Factory": {
+      "id": 1000020,
       "levels": {
         "1": {
           "hitpoints": 425,
@@ -1870,6 +1908,7 @@
       }
     },
     "Dark Spell Factory": {
+      "id": 1000029,
       "levels": {
         "1": {
           "hitpoints": 600,
@@ -1948,6 +1987,7 @@
       }
     },
     "Pet House": {
+      "id": 1000068,
       "levels": {
         "1": {
           "hitpoints": 700,
@@ -2036,6 +2076,7 @@
       }
     },
     "Blacksmith": {
+      "id": 1000070,
       "levels": {
         "1": {
           "hitpoints": 700,
@@ -2110,6 +2151,7 @@
       }
     },
     "Clan Castle": {
+      "id": 1000014,
       "levels": {
         "1": {
           "hitpoints": 600,
@@ -2121,6 +2163,7 @@
       }
     },
     "Siege Workshop": {
+      "id": 1000059,
       "levels": {
         "1": {
           "hitpoints": 1000,
@@ -2188,6 +2231,7 @@
       }
     },
     "Hero Hall": {
+      "id": 1000071,
       "levels": {
         "1": {
           "hitpoints": 800,
@@ -2201,6 +2245,7 @@
   },
   "builder_base": {
     "Double Cannon": {
+      "id": 1000041,
       "levels": {
         "1": {
           "hitpoints": 600,
@@ -2275,6 +2320,7 @@
       }
     },
     "Crusher": {
+      "id": 1000055,
       "levels": {
         "1": {
           "hitpoints": 1000,
@@ -2349,6 +2395,7 @@
       }
     },
     "Roaster": {
+      "id": 1000056,
       "levels": {
         "1": {
           "hitpoints": 800,
@@ -2423,6 +2470,7 @@
       }
     },
     "Giant Cannon": {
+      "id": 1000057,
       "levels": {
         "1": {
           "hitpoints": 700,
@@ -2497,6 +2545,7 @@
       }
     },
     "Mega Tesla": {
+      "id": 1000052,
       "levels": {
         "1": {
           "hitpoints": 700,
@@ -2571,6 +2620,7 @@
       }
     },
     "Lava Launcher": {
+      "id": 1000063,
       "levels": {
         "1": {
           "hitpoints": 500,
@@ -2645,6 +2695,7 @@
       }
     },
     "Guard Post": {
+      "id": 1000051,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -2719,6 +2770,7 @@
       }
     },
     "Builder Hall": {
+      "id": 1000034,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -2793,6 +2845,7 @@
       }
     },
     "Gold Storage": {
+      "id": 1000038,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -2867,6 +2920,7 @@
       }
     },
     "Elixir Storage": {
+      "id": 1000036,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -2941,6 +2995,7 @@
       }
     },
     "Gold Mine": {
+      "id": 1000037,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -3015,6 +3070,7 @@
       }
     },
     "Elixir Collector": {
+      "id": 1000035,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -3089,6 +3145,7 @@
       }
     },
     "Army Camp": {
+      "id": 1000042,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -3100,6 +3157,7 @@
       }
     },
     "Reinforcement Camp": {
+      "id": 1000049,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -3111,6 +3169,7 @@
       }
     },
     "Star Laboratory": {
+      "id": 1000046,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -3185,6 +3244,7 @@
       }
     },
     "Barracks": {
+      "id": 1000040,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -3273,6 +3333,7 @@
       }
     },
     "OTTOs Outpost": {
+      "id": 1000078,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -3347,6 +3408,7 @@
       }
     },
     "Healing Hut": {
+      "id": 1000082,
       "levels": {
         "1": {
           "hitpoints": 550,
@@ -3393,6 +3455,7 @@
       }
     },
     "BOB Control": {
+      "id": 1000065,
       "levels": {
         "1": {
           "hitpoints": 250,
@@ -3432,6 +3495,7 @@
       }
     },
     "Gem Mine": {
+      "id": 1000058,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -3506,6 +3570,7 @@
       }
     },
     "Clock Tower": {
+      "id": 1000039,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -3580,6 +3645,7 @@
       }
     },
     "Battle Machine Altar": {
+      "id": 1000053,
       "levels": {
         "1": {
           "hitpoints": 250,
@@ -3591,6 +3657,7 @@
       }
     },
     "Battle Copter Altar": {
+      "id": 1000080,
       "levels": {
         "1": {
           "hitpoints": 250,
@@ -3602,6 +3669,7 @@
       }
     },
     "Wall": {
+      "id": 1000033,
       "levels": {
         "1": {
           "hitpoints": 900,
@@ -3676,6 +3744,7 @@
       }
     },
     "Cannon": {
+      "id": 1000044,
       "levels": {
         "1": {
           "hitpoints": 500,
@@ -3750,6 +3819,7 @@
       }
     },
     "Archer Tower": {
+      "id": 1000048,
       "levels": {
         "1": {
           "hitpoints": 500,
@@ -3824,6 +3894,7 @@
       }
     },
     "Firecrackers": {
+      "id": 1000050,
       "levels": {
         "1": {
           "hitpoints": 400,
@@ -3898,6 +3969,7 @@
       }
     },
     "Hidden Tesla": {
+      "id": 1000043,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -3972,6 +4044,7 @@
       }
     },
     "Air Bombs": {
+      "id": 1000054,
       "levels": {
         "1": {
           "hitpoints": 1000,
@@ -4046,6 +4119,7 @@
       }
     },
     "Multi Mortar": {
+      "id": 1000045,
       "levels": {
         "1": {
           "hitpoints": 500,
@@ -4120,6 +4194,7 @@
       }
     },
     "X-Bow": {
+      "id": 1000081,
       "levels": {
         "1": {
           "hitpoints": 1700,
@@ -4159,6 +4234,7 @@
       }
     },
     "Builders Hut": {
+      "id": 1000047,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -4172,6 +4248,7 @@
   },
   "troops": {
     "Barbarian": {
+      "id": 4000000,
       "levels": {
         "1": {
           "hitpoints": 310,
@@ -4183,6 +4260,7 @@
       }
     },
     "Archer": {
+      "id": 4000001,
       "levels": {
         "1": {
           "hitpoints": 76,
@@ -4194,6 +4272,7 @@
       }
     },
     "Giant": {
+      "id": 4000003,
       "levels": {
         "1": {
           "hitpoints": 3000,
@@ -4205,6 +4284,7 @@
       }
     },
     "Goblin": {
+      "id": 4000002,
       "levels": {
         "1": {
           "hitpoints": 166,
@@ -4216,6 +4296,7 @@
       }
     },
     "Wall Breaker": {
+      "id": 4000004,
       "levels": {
         "1": {
           "hitpoints": 170,
@@ -4227,6 +4308,7 @@
       }
     },
     "Balloon": {
+      "id": 4000005,
       "levels": {
         "1": {
           "hitpoints": 1360,
@@ -4238,6 +4320,7 @@
       }
     },
     "Wizard": {
+      "id": 4000006,
       "levels": {
         "1": {
           "hitpoints": 330,
@@ -4249,6 +4332,7 @@
       }
     },
     "Healer": {
+      "id": 4000007,
       "levels": {
         "1": {
           "hitpoints": 2100,
@@ -4260,6 +4344,7 @@
       }
     },
     "Dragon": {
+      "id": 4000008,
       "levels": {
         "1": {
           "hitpoints": 6000,
@@ -4366,6 +4451,7 @@
       }
     },
     "Baby Dragon": {
+      "id": 4000023,
       "levels": {
         "1": {
           "hitpoints": 2350,
@@ -4377,6 +4463,7 @@
       }
     },
     "Miner": {
+      "id": 4000024,
       "levels": {
         "1": {
           "hitpoints": 2050,
@@ -4388,6 +4475,7 @@
       }
     },
     "Electro Dragon": {
+      "id": 4000059,
       "levels": {
         "1": {
           "hitpoints": 6700,
@@ -4399,6 +4487,7 @@
       }
     },
     "Yeti": {
+      "id": 4000053,
       "levels": {
         "1": {
           "hitpoints": 4650,
@@ -4410,6 +4499,7 @@
       }
     },
     "Dragon Rider": {
+      "id": 4000065,
       "levels": {
         "1": {
           "hitpoints": 6000,
@@ -4421,6 +4511,7 @@
       }
     },
     "Electro Titan": {
+      "id": 4000095,
       "levels": {
         "1": {
           "hitpoints": 9200,
@@ -4432,6 +4523,7 @@
       }
     },
     "Root Rider": {
+      "id": 4000110,
       "levels": {
         "1": {
           "hitpoints": 6700,
@@ -4443,6 +4535,7 @@
       }
     },
     "Minion": {
+      "id": 4000010,
       "levels": {
         "1": {
           "hitpoints": 140,
@@ -4454,6 +4547,7 @@
       }
     },
     "Hog Rider": {
+      "id": 4000011,
       "levels": {
         "1": {
           "hitpoints": 1750,
@@ -4465,6 +4559,7 @@
       }
     },
     "Valkyrie": {
+      "id": 4000012,
       "levels": {
         "1": {
           "hitpoints": 2900,
@@ -4476,6 +4571,7 @@
       }
     },
     "Golem": {
+      "id": 4000013,
       "levels": {
         "1": {
           "hitpoints": 10600,
@@ -4487,6 +4583,7 @@
       }
     },
     "Witch": {
+      "id": 4000015,
       "levels": {
         "1": {
           "hitpoints": 650,
@@ -4498,6 +4595,7 @@
       }
     },
     "Lava Hound": {
+      "id": 4000017,
       "levels": {
         "1": {
           "hitpoints": 9500,
@@ -4509,6 +4607,7 @@
       }
     },
     "Bowler": {
+      "id": 4000022,
       "levels": {
         "1": {
           "hitpoints": 860,
@@ -4520,6 +4619,7 @@
       }
     },
     "Ice Golem": {
+      "id": 4000058,
       "levels": {
         "1": {
           "hitpoints": 4350,
@@ -4531,6 +4631,7 @@
       }
     },
     "Headhunter": {
+      "id": 4000082,
       "levels": {
         "1": {
           "hitpoints": 500,
@@ -4542,6 +4643,7 @@
       }
     },
     "Apprentice Warden": {
+      "id": 4000097,
       "levels": {
         "1": {
           "hitpoints": 1950,
@@ -4553,6 +4655,7 @@
       }
     },
     "Druid": {
+      "id": 4000123,
       "levels": {
         "1": {
           "hitpoints": 1850,
@@ -4564,6 +4667,7 @@
       }
     },
     "PEKKA": {
+      "id": 4000009,
       "levels": {
         "1": {
           "hitpoints": 8800,
@@ -4577,6 +4681,7 @@
   },
   "traps": {
     "Bomb": {
+      "id": 12000000,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -4679,6 +4784,7 @@
       }
     },
     "Spring Trap": {
+      "id": 12000001,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -4774,6 +4880,7 @@
       }
     },
     "Giant Bomb": {
+      "id": 12000002,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -4862,6 +4969,7 @@
       }
     },
     "Air Bomb": {
+      "id": 12000005,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -4957,6 +5065,7 @@
       }
     },
     "Seeking Air Mine": {
+      "id": 12000006,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -5017,6 +5126,7 @@
       }
     },
     "Skeleton Trap": {
+      "id": 12000008,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -5056,6 +5166,7 @@
       }
     },
     "Tornado Trap": {
+      "id": 12000016,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -5083,6 +5194,7 @@
   },
   "pets": {
     "L.A.S.S.I": {
+      "id": 73000000,
       "levels": {
         "1": {
           "hitpoints": 4500,
@@ -5094,6 +5206,7 @@
       }
     },
     "Electro Owl": {
+      "id": 73000002,
       "levels": {
         "1": {
           "hitpoints": 3000,
@@ -5105,6 +5218,7 @@
       }
     },
     "Mighty Yak": {
+      "id": 73000001,
       "levels": {
         "1": {
           "hitpoints": 6300,
@@ -5116,6 +5230,7 @@
       }
     },
     "Unicorn": {
+      "id": 73000003,
       "levels": {
         "1": {
           "hitpoints": 2325,
@@ -5127,6 +5242,7 @@
       }
     },
     "Frosty": {
+      "id": 73000009,
       "levels": {
         "1": {
           "hitpoints": 3800,
@@ -5138,6 +5254,7 @@
       }
     },
     "Diggy": {
+      "id": 73000008,
       "levels": {
         "1": {
           "hitpoints": 5000,
@@ -5149,6 +5266,7 @@
       }
     },
     "Poison Lizard": {
+      "id": 73000007,
       "levels": {
         "1": {
           "hitpoints": 2300,
@@ -5160,6 +5278,7 @@
       }
     },
     "Phoenix": {
+      "id": 73000004,
       "levels": {
         "1": {
           "hitpoints": 4200,
@@ -5171,6 +5290,7 @@
       }
     },
     "Spirit Fox": {
+      "id": 73000010,
       "levels": {
         "1": {
           "hitpoints": 2800,
@@ -5182,6 +5302,7 @@
       }
     },
     "Angry Jelly": {
+      "id": 73000011,
       "levels": {
         "1": {
           "hitpoints": 2125,
@@ -5195,6 +5316,7 @@
   },
   "heroes": {
     "Barbarian King": {
+      "id": 28000000,
       "levels": {
         "1": {
           "hitpoints": 12725,
@@ -5206,6 +5328,7 @@
       }
     },
     "Archer Queen": {
+      "id": 28000001,
       "levels": {
         "1": {
           "hitpoints": 3456,
@@ -5217,6 +5340,7 @@
       }
     },
     "Grand Warden": {
+      "id": 28000002,
       "levels": {
         "1": {
           "hitpoints": 2584,
@@ -5228,6 +5352,7 @@
       }
     },
     "Royal Champion": {
+      "id": 28000004,
       "levels": {
         "1": {
           "hitpoints": 4298,
@@ -5239,6 +5364,7 @@
       }
     },
     "Battle Machine": {
+      "id": 28000003,
       "levels": {
         "1": {
           "hitpoints": 5380,
@@ -5250,6 +5376,7 @@
       }
     },
     "Battle Copter": {
+      "id": 28000005,
       "levels": {
         "1": {
           "hitpoints": 3456,
@@ -5263,6 +5390,7 @@
   },
   "hero_equipment": {
     "Barbarian Puppet": {
+      "id": 90000000,
       "levels": {
         "1": {
           "hitpoints": 309,
@@ -5393,6 +5521,7 @@
       }
     },
     "Rage Vial": {
+      "id": 90000001,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -5523,6 +5652,7 @@
       }
     },
     "Giant Gauntlet": {
+      "id": 90000010,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -5716,6 +5846,7 @@
       }
     },
     "Earthquake Boots": {
+      "id": 90000008,
       "levels": {
         "1": {
           "hitpoints": 209,
@@ -5846,6 +5977,7 @@
       }
     },
     "Archer Puppet": {
+      "id": 90000002,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -5976,6 +6108,7 @@
       }
     },
     "Invisibility Vial": {
+      "id": 90000003,
       "levels": {
         "1": {
           "hitpoints": 80,
@@ -6236,6 +6369,7 @@
       }
     },
     "Healer Puppet": {
+      "id": 90000020,
       "levels": {
         "1": {
           "hitpoints": 132,
@@ -6366,6 +6500,7 @@
       }
     },
     "Eternal Tome": {
+      "id": 90000004,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -6496,6 +6631,7 @@
       }
     },
     "Life Gem": {
+      "id": 90000005,
       "levels": {
         "1": {
           "hitpoints": 170,
@@ -6626,6 +6762,7 @@
       }
     },
     "Rage Gem": {
+      "id": 90000024,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -6756,6 +6893,7 @@
       }
     },
     "Healing Tome": {
+      "id": 90000034,
       "levels": {
         "1": {
           "hitpoints": 92,
@@ -6888,6 +7026,7 @@
   },
   "builder_base_troops": {
     "Raged Barbarian": {
+      "id": 4000031,
       "levels": {
         "1": {
           "hitpoints": 1179,
@@ -6899,6 +7038,7 @@
       }
     },
     "Sneaky Archer": {
+      "id": 4000032,
       "levels": {
         "1": {
           "hitpoints": 462,
@@ -6910,6 +7050,7 @@
       }
     },
     "Boxer Giant": {
+      "id": 4000034,
       "levels": {
         "1": {
           "hitpoints": 5423,
@@ -6921,6 +7062,7 @@
       }
     },
     "Beta Minion": {
+      "id": 4000033,
       "levels": {
         "1": {
           "hitpoints": 429,
@@ -6932,6 +7074,7 @@
       }
     },
     "Bomber": {
+      "id": 4000035,
       "levels": {
         "1": {
           "hitpoints": 1179,
@@ -6943,6 +7086,7 @@
       }
     },
     "Cannon Cart": {
+      "id": 4000037,
       "levels": {
         "1": {
           "hitpoints": 1179,
@@ -6954,6 +7098,7 @@
       }
     },
     "Night Witch": {
+      "id": 4000042,
       "levels": {
         "1": {
           "hitpoints": 1220,
@@ -6965,6 +7110,7 @@
       }
     },
     "Drop Ship": {
+      "id": 4000038,
       "levels": {
         "1": {
           "hitpoints": 4978,
@@ -6979,6 +7125,7 @@
       "levels": {}
     },
     "Hog Glider": {
+      "id": 4000070,
       "levels": {
         "1": {
           "hitpoints": 700,
@@ -6990,6 +7137,7 @@
       }
     },
     "Electrofire Wizard": {
+      "id": 4000106,
       "levels": {
         "1": {
           "hitpoints": 1210,
@@ -7001,6 +7149,7 @@
       }
     },
     "Power P.E.K.K.A": {
+      "id": 4000036,
       "levels": {
         "1": {
           "hitpoints": 5191,
@@ -7012,6 +7161,7 @@
       }
     },
     "Baby Dragon": {
+      "id": 4000041,
       "levels": {
         "1": {
           "hitpoints": 2358,
@@ -7023,6 +7173,7 @@
       }
     },
     "Bat": {
+      "id": 4000043,
       "levels": {
         "1": {
           "hitpoints": 10,
@@ -7034,6 +7185,7 @@
       }
     },
     "Enraged Bat": {
+      "id": 4000105,
       "levels": {
         "1": {
           "hitpoints": 10,
@@ -7045,6 +7197,7 @@
       }
     },
     "Drop Ship Skeleton": {
+      "id": 4000040,
       "levels": {
         "1": {
           "hitpoints": 10,
@@ -7056,6 +7209,7 @@
       }
     },
     "Hog Rider": {
+      "id": 4000071,
       "levels": {
         "1": {
           "hitpoints": 1533,
@@ -7067,6 +7221,7 @@
       }
     },
     "Zappy": {
+      "id": 4000107,
       "levels": {
         "1": {
           "hitpoints": 518,
@@ -7078,6 +7233,7 @@
       }
     },
     "MovingCannonSecondary": {
+      "id": 4000044,
       "levels": {
         "1": {
           "hitpoints": 300,
@@ -7091,6 +7247,7 @@
   },
   "builder_base_traps": {
     "Mine": {
+      "id": 12000013,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -7165,6 +7322,7 @@
       }
     },
     "Mega Mine": {
+      "id": 12000014,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -7239,6 +7397,7 @@
       }
     },
     "Push Trap": {
+      "id": 12000011,
       "levels": {
         "1": {
           "hitpoints": null,
@@ -7313,6 +7472,7 @@
       }
     },
     "Spring Trap": {
+      "id": 12000010,
       "levels": {
         "1": {
           "hitpoints": null,
